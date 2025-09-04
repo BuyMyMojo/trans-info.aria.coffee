@@ -47,3 +47,8 @@ Otherwise you can contact me anywhere I mention on my [personal website](https:/
 > For those who want it my PGP key for this email can be found in the following places:
 > - [opengpg](https://keys.openpgp.org/search?q=transinfo@aria.coffee)
 > - [Ubuntu keyserver](https://keyserver.ubuntu.com/pks/lookup?search=transinfo%40aria.coffee&fingerprint=on&op=index)
+
+Alternatively if you want to share information or discuss specifically FTM related stuff then Aphantic is the one to see!
+
+BlueSky: [@aphantic.pds.witchcraft.systems](https://bsky.app/profile/did:plc:vy22kzdjlkx3obiu6jgfw5jo)
+Discord: @aphantic
