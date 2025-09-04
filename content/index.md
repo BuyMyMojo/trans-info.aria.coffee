@@ -1,6 +1,9 @@
 ---
 title: Welcome to The Trans Directory
 ---
+> [!danger]
+> This website is under heavy development!
+> all the info on these pages are checked before uploading and will be accurate still, the website itself will change a lot however.
 
 Welcome! This is a project by [Aria](https://aria.coffee) to get as much information about transitioning as she can into one place!
 
