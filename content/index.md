@@ -11,6 +11,14 @@ This page will link to different broad topics and those will link to individual 
 
 There will be LOTS of linking to other websites, I feel these websites already have great descriptions and info on the topic, no need to rewrite words someone has done beautifully already.
 
+## Why?
+
+I am from a small rural town in Australia and found myself needing to learn a TON of info about transitioning on my own with heavy research so I could safely begin my transition on my own.
+
+After learning about and  talking to a few other trans individuals I learnt many of them don't have enough information on their own medication or where to actually begin, I am *f\*\*\*ing* sick of people not having that info.
+
+I want to get this out to as many individuals that need it as possible and make all this info accessible easily.
+
 # Male To Female
 
 > [!warning]
