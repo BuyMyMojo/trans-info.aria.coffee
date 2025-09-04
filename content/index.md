@@ -34,3 +34,16 @@ I want to get this out to as many individuals that need it as possible and make 
 
 - [[FTM Resources]] - Just give me the damn links
 - [[FTM HRT]] - Info on medical transitioning with male hormones
+
+# YOU CAN HELP!
+
+Feel free to email me at transinfo@aria.coffee with info I missed relating to this website!
+If you have GitHub knowledge you may also open a PR directing on the [GitHub](https://github.com/BuyMyMojo/trans-info.aria.coffee).
+
+Otherwise you can contact me anywhere I mention on my [personal website](https://aria.coffee/).
+
+
+> [!NOTE] Email PGP info
+> For those who want it my PGP key for this email can be found in the following places:
+> - [opengpg](https://keys.openpgp.org/search?q=transinfo@aria.coffee)
+> - [Ubuntu keyserver](https://keyserver.ubuntu.com/pks/lookup?search=transinfo%40aria.coffee&fingerprint=on&op=index)
