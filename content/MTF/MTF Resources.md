@@ -8,6 +8,7 @@
 	- A VERY in-depth guide to HRT by [Katie Tightpussy](https://katea.gay/)
 - https://diyhrt.market/transfem-hrt-guide
 	- diyhrt.market is a DIY HRT market aggregator but they do have a pretty solid guide on MTF HRT
+- https://diyhrt.wiki/transfem
 
 ### Tools
 - [https://estrannai.se/](https://estrannai.se/#i0_cu,4,5,1-4,5,1-4,5,1-4,5,1-4,5,1-4,5,1-4,5,1-4,5,1_c,4,5,1)
