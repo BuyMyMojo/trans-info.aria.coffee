@@ -35,6 +35,8 @@ I want to get this out to as many individuals that need it as possible and make 
 - [[FTM Resources]] - Just give me the damn links
 - [[FTM HRT]] - Info on medical transitioning with male hormones
 
+Also I am collecting a ton of [[Research Papers]] relating to transgender people!
+
 # YOU CAN HELP!
 
 Feel free to email me at transinfo@aria.coffee with info I missed relating to this website!
