@@ -42,6 +42,8 @@ Also I am collecting a ton of [[Research Papers]] relating to transgender people
 Feel free to email me at transinfo@aria.coffee with info I missed relating to this website!
 If you have GitHub knowledge you may also open a PR directing on the [GitHub](https://github.com/BuyMyMojo/trans-info.aria.coffee).
 
+If you want to talk securely about anything message me on Signal! My username is `BuyMyMojo.69`
+
 Otherwise you can contact me anywhere I mention on my [personal website](https://aria.coffee/).
 
 
