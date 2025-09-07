@@ -19,6 +19,13 @@ After learning about and  talking to a few other trans individuals I learnt many
 
 I want to get this out to as many individuals that need it as possible and make all this info accessible easily.
 
+# All gender diverse people:
+
+> [!warning]
+> PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
+
+- [[Genderal Resources]] - Get link that apply to everyone or specific regions!
+
 # Male To Female
 
 > [!warning]
