@@ -24,7 +24,8 @@ I want to get this out to as many individuals that need it as possible and make 
 > [!warning]
 > PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
 
-- [[Genderal Resources]] - Get link that apply to everyone or specific regions!
+- [[Genderal Resources]] - Get links that apply to everyone or specific regions!
+- [[Supporter Resources]] - Get links for helping those unfamilar understand what it's like to be trans
 
 # Male To Female
 
