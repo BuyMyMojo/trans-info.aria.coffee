@@ -64,3 +64,7 @@ Alternatively if you want to share information or discuss specifically FTM relat
 
 BlueSky: [@aphantic.pds.witchcraft.systems](https://bsky.app/profile/did:plc:vy22kzdjlkx3obiu6jgfw5jo)
 Discord: @aphantic
+
+<sub>
+    Permalink for this website: https://perma.cc/FCR6-ZF3V
+</sub>
