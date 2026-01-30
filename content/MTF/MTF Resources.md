@@ -1,4 +1,8 @@
 
+## Science!
+
+Go take a look at [Transfeminine Science](https://transfemscience.org/) for a bunch of articles and news on MTF research!
+
 ## HRT stuff
 
 ### Information
