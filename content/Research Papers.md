@@ -1,5 +1,11 @@
 Here are a few research papers relevant to transgender people, sorted by publication date
 
+- [“I Don’t Know if I Would’ve Made It Through High School
+Without It”: Transgender Adolescents’ Perspectives
+on the Impact of Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/41574250/)
+  - Dec 1, 2025
+  - [fulltext](https://sci-net.xyz/10.1089/trgh.2024.0115)
+  ![[I-Don-t-Know-if-I-Would-ve-Made-It-Through-High-School-Without-It-Transgender-Adolescents.pdf]]
 - [No increased risk of gynaecological cancer with testosterone use in the first years](https://www.amsterdamumc.org/en/spotlight/no-increased-risk-of-gynaecological-cancer-with-testosterone-use-in-the-first-years.htm)
   - May 12, 2025
   - [fulltext](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00180-4/fulltext)
