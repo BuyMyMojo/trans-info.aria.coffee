@@ -22,6 +22,9 @@ on the Impact of Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/41574250
   ![[Testicular-Cancer-in-Trans-People-Using-Feminising-Hormone-Therapy-A-Brief-Review.pdf]]
 - [Age at First Experience of Gender Dysphoria Among Transgender Adults Seeking Gender-Affirming Surgery](https://sci-hub.se/10.1001/jamanetworkopen.2020.1236)
   - March 16, 2020
+- [Bioavailability of Progesterone with Different Modes of Administration](https://pubmed.ncbi.nlm.nih.gov/3612635/)
+  - [fulltext](https://hrt.wtf/files.transfemscience.org/pdfs/Chakmakjian%20&%20Zachariah%20(1987)%20-%20Bioavailability%20of%20Progesterone%20with%20Different%20Modes%20of%20Administration.pdf)
+  ![[Chakmakjian & Zachariah (1987) - Bioavailability of Progesterone with Different Modes of Administration.pdf]]
 
 ## Press releases
 
