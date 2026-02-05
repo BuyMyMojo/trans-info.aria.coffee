@@ -26,9 +26,12 @@ I want to get this out to as many individuals that need it as possible and make 
 
 - [[Genderal Resources]] - Get links that apply to everyone or specific regions!
 - [[Supporter Resources]] - Get links for helping those unfamilar understand what it's like to be trans
-- [[Australian Legal]] - Specific guide for Australian name/gender marker changes
 - [[Surgeries]] - Overview of common gender-affirming surgical procedures
 - [[Voice Training]] - Resources for voice feminization and masculinization
+
+## Universal legal info for all gender diverse people
+
+- [[Australian Legal]] - Specific guide for Australian name/gender marker changes
 
 # Male To Female
 
