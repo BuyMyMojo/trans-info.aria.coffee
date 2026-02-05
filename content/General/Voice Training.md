@@ -35,4 +35,4 @@ Testosterone *will* thicken vocal folds and drop your pitch, but "training" can 
 
 Estrogen does *not* raise pitch. Voice training is the primary way to achieve a feminine voice.
 
-* [TransVoiceLessons - The Art of Voice Feminization](https://www.youtube.com/watch?v=bw1X0IlGS-o&ab_channel=TransVoiceLessons)
+* [TransVoiceLessons - The Art of Voice Feminization](https://www.youtube.com/watch?v=ynFqjE2AEGk)
