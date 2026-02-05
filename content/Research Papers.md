@@ -9,6 +9,7 @@ Here are a few research papers relevant to transgender people, sorted by publica
 - [Testicular Cancer in Trans People Using Feminising Hormone Therapy– A Brief Review](https://pubmed.ncbi.nlm.nih.gov/34826522/)
   - September 23, 2021
   - [fulltext](https://sci-net.xyz/10.1016/j.urology.2021.11.014)
+  - [backup fulltext](https://web.archive.org/web/20260205034635/https://sci-net.xyz/10.1016/j.urology.2021.11.014)
   ![[Testicular-Cancer-in-Trans-People-Using-Feminising-Hormone-Therapy-A-Brief-Review.pdf]]
 - [Age at First Experience of Gender Dysphoria Among Transgender Adults Seeking Gender-Affirming Surgery](https://sci-hub.se/10.1001/jamanetworkopen.2020.1236)
   - March 16, 2020
