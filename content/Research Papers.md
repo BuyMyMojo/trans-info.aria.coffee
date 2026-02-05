@@ -1,5 +1,9 @@
 Here are a few research papers relevant to transgender people, sorted by publication date
 
+- [Body composition and physical fitness in transgender versus cisgender individuals: a systematic review with meta-analysis](https://bjsm.bmj.com/content/early/2026/01/22/bjsports-2025-110239)
+  - February 3, 2026
+  - [fulltext](https://bjsm.bmj.com/content/bjsports/early/2026/01/22/bjsports-2025-110239.full.pdf)
+  ![[Body composition and physical fitness in transgender versus cisgender individuals a systematic review with meta-analysis.pdf]]
 - [“I Don’t Know if I Would’ve Made It Through High School
 Without It”: Transgender Adolescents’ Perspectives
 on the Impact of Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/41574250/)
