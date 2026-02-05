@@ -3,6 +3,9 @@ Here are a few research papers relevant to transgender people, sorted by publica
 - [No increased risk of gynaecological cancer with testosterone use in the first years](https://www.amsterdamumc.org/en/spotlight/no-increased-risk-of-gynaecological-cancer-with-testosterone-use-in-the-first-years.htm)
   - May 12, 2025
   - [fulltext](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00180-4/fulltext)
+- [Bicalutamide does not raise transaminases clinically significantly compared to alternative anti-androgen regimens among transfeminine adolescents and young adults: A retrospective cohort study](https://www.tandfonline.com/doi/full/10.1080/26895269.2025.2452184)
+  - [fulltext](https://sci-net.xyz/10.1080/26895269.2025.2452184)
+  ![[Bicalutamide-does-not-raise-transaminases-clinically-significantly-compared-to-alternative.pdf]]
 - [The efficacy, safety, and outcomes of testosterone use among transgender men patients: A review of the literature](https://pubmed.ncbi.nlm.nih.gov/36403286/)
   - Nov 20, 2022
   - [fulltext](https://onlinelibrary.wiley.com/doi/10.1002/nau.25094)
