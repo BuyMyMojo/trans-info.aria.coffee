@@ -26,13 +26,16 @@ I want to get this out to as many individuals that need it as possible and make 
 
 - [[Genderal Resources]] - Get links that apply to everyone or specific regions!
 - [[Supporter Resources]] - Get links for helping those unfamilar understand what it's like to be trans
+- [[Australian Legal]] - Specific guide for Australian name/gender marker changes
+- [[Surgeries]] - Overview of common gender-affirming surgical procedures
+- [[Voice Training]] - Resources for voice feminization and masculinization
 
 # Male To Female
 
 > [!warning]
 > PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
 
-- [[MTF Resources]] - Just give me the damn links 
+- [[MTF Resources]] - Just give me the damn links
 - [[MTF HRT]] - Info on medical transitioning with female hormones
 
 # Female To Male
@@ -54,9 +57,9 @@ If you want to talk securely about anything message me on Signal! My username is
 
 Otherwise you can contact me anywhere I mention on my [personal website](https://aria.coffee/).
 
-
 > [!NOTE] Email PGP info
 > For those who want it my PGP key for this email can be found in the following places:
+>
 > - [opengpg](https://keys.openpgp.org/search?q=transinfo@aria.coffee)
 > - [Ubuntu keyserver](https://keyserver.ubuntu.com/pks/lookup?search=transinfo%40aria.coffee&fingerprint=on&op=index)
 
