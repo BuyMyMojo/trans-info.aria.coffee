@@ -1,5 +1,8 @@
 Here are a few research papers relevant to transgender people, sorted by publication date
 
+- [Long-Term Effects of Gender-Affirming Hormone Therapy from Adolescence to Adulthood on Voice](https://pubmed.ncbi.nlm.nih.gov/41692655/)
+  - [fulltext](https://www.jvoice.org/article/S0892-1997(26)00048-2/fulltext)
+  ![[Long-Term Effects of Gender-Affirming Hormone Therapy from Adolescence to Adulthood on Voice.pdf]]
 - [Body composition and physical fitness in transgender versus cisgender individuals: a systematic review with meta-analysis](https://bjsm.bmj.com/content/early/2026/01/22/bjsports-2025-110239)
   - February 3, 2026
   - [fulltext](https://bjsm.bmj.com/content/bjsports/early/2026/01/22/bjsports-2025-110239.full.pdf)
