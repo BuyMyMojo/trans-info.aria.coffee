@@ -30,7 +30,7 @@
   date: "Febuary 2026", // version/date string (shown in both modes)
   abstract: [Estradiol Valerate is the only form of _injectable_ estrogen for use in HRT within Australia, outside of Australia there are more esters available with longer injection cycles improving quality of life for gender diverse individuals. This paper will focus specifically on Estradiol Undecylate, my personal experience with it, my levels before and during it and other general information regarding its use.], // optional abstract (rendered front matter)
   keywords: [
-    Trangender,
+    Transgender,
     Estradiol,
     Estradiol Undecylate,
     HRT,
