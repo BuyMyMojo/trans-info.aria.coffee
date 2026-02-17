@@ -1,5 +1,8 @@
 Here are a few research papers relevant to transgender people, sorted by publication date
 
+- [Heart rate variability in transgender people receiving Gender-Affirming hormone therapy](https://link.springer.com/article/10.1007/s12020-025-04512-4)
+  - February 16, 2026
+  - fulltext not yet avaliable
 - [Long-Term Effects of Gender-Affirming Hormone Therapy from Adolescence to Adulthood on Voice](https://pubmed.ncbi.nlm.nih.gov/41692655/)
   - [fulltext](https://www.jvoice.org/article/S0892-1997(26)00048-2/fulltext)
   ![[Long-Term Effects of Gender-Affirming Hormone Therapy from Adolescence to Adulthood on Voice.pdf]]
