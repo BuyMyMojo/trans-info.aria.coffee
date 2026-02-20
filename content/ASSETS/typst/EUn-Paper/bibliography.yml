@@ -1,0 +1,107 @@
+zygos:
+    type: Article
+    author:
+        - Prekas, George
+        - Kogias, Marios
+        - Bugnion, Edouard
+    title:
+        value: "ZygOS: Achieving Low Tail Latency for Microsecond-Scale Networked Tasks"
+        verbatim: true
+    date: 2017
+    page-range: 325-341
+    serial-number:
+        doi: 10.1145/3132747.3132780
+    parent:
+        - type: Proceedings
+          title: Proceedings of the 26th Symposium on Operating Systems Principles
+          publisher: Association for Computing Machinery
+          location: New York, NY, USA
+          serial-number: { isbn: "978-1450350853" }
+
+science-e-issue:
+    type: Web
+    title: Tokenization of + and - with scientific notation
+    url: https://github.com/typst/typstc/issues/3
+    serial-number: 3
+    author:
+        - name: "Mädje"
+          given-name: "Laurenz"
+          alias: "laurmaedje"
+    date: 2020-07-18
+    parent: 
+        type: Repository
+        title: Typst
+        url: https://github.com/typst/typst
+
+plaque:
+    type: Misc
+    title: Informational plaque about Jacoby's 1967 photos
+    publisher: Stiftung Reinbeckhallen
+    location: Berlin, Germany
+    date: 2020
+    parent:
+        type: Artwork
+        date: 1967
+        author: Jacoby, Max
+        parent:
+            type: Anthology
+            title: Bleibtreustraße
+            archive: Landesmuseum Koblenz
+            archive-location: Koblenz, Germany
+
+georgia:
+    type: post
+    author: Silver, Nate
+    title: Trump's claim to have won Georgia is highly dubious. No network has called it. He's only ahead by 2.5 points there, and the outstanding votes are mostly mail votes in very blue counties, likely very Democratic. Biden may even be a slight favorite there.
+    url: https://twitter.com/NateSilver538/status/1323889051037028353
+    date: 2020-11-04
+
+really-habitable:
+    type: Article
+    title: Defining the Really Habitable Zone
+    author: ["Pedbost, Marven F.", "Pomalgu, Trillean", "Lintott, Chris", "Eisner, Nora", "Nicholson, Belinda"]
+    date: 2020
+    serial-number: 2003.13722
+    url: https://arxiv.org/abs/2003.13722
+    parent:
+        type: Repository
+        title: arXiv
+
+mattermost:
+    type: Web
+    title: Mattermost Privacy Policy
+    author: Mattermost
+    url:
+        value: https://mattermost.com/privacy-policy/
+        date: 2020-11-29
+    parent:
+        type: Web
+        title: Policies
+
+worth:
+    type: Blog
+    title: Jon Worth Euroblog
+    author: Worth, Jon
+    url: https://jonworth.eu/
+
+un-hdr:
+    type: Report
+    author: United Nations Development Programme
+    title: Human Development Report 2019
+    location: New York
+    serial-number: { issn: 2412-3129 }
+    url: http://hdr.undp.org/sites/default/files/hdr2019.pdf
+    date: 2019
+
+
+latex-users:
+    type: Article
+    title: How many scholarly articles are written in LaTeX?
+    serial-number:
+        doi: 10.22541/au.148771883.35456290
+    author: Pepe, Alberto
+    date: 2017-02-21
+    parent:
+        type: Repository
+        title: Authorea
+

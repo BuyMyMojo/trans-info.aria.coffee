@@ -43,12 +43,29 @@
   body-paragraph-spacing: 0.7em, // spacing between main-text paragraphs
   body-text-spacing: 106%, // glyph tracking for the body text
 
-  // bibliography: bibliography("bib.bib", title: "References", style: "apa"), // attach your references
+  bibliography: bibliography("bibliography.yml", title: "References", style: "apa"), // attach your references
 )
 
-// Your main content goes here
+#columns(2, gutter: 24pt)[
+
+= Abstract
+#lorem(30)
+
 = Introduction
 #lorem(10)
 
-= Literature Review
+= Methods
+#lorem(20)
+
+= Results
+#lorem(20)
+
+= Discussion
+#lorem(20)
+
+= Conclusions
+#lorem(20)
+
+]
+= Acknowledgements
 #lorem(20)
