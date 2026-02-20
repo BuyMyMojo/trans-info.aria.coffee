@@ -1,3 +1,29 @@
+informal-meta-analysis-of-estradiol-curves:
+    type: Article
+    title: An Informal Meta-Analysis of Estradiol Curves with Injectable Estradiol Preparations
+    url: https://transfemscience.org/articles/injectable-e2-meta-analysis/
+    author: ["Aly"]
+    date: 2021-07-16
+    parent:
+        type: Web
+        title: Transfeminine Science
+        url: https://transfemscience.org/
+
+longacting-steroid-preparations:
+    type: Article
+    title: Longacting Steroid Preparations
+    serial-number:
+        doi: 10.1080/17843286.1975.11716973
+    author: Vermeulen, A
+    date: 1975
+    page-range: 48-55
+    parent:
+        type: Periodical
+        title: Acta Clinica Belgica
+        volume: 30
+        issue: 1
+        publisher: American Physical Society
+
 zygos:
     type: Article
     author:
