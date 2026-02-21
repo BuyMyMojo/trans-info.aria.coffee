@@ -1,5 +1,9 @@
 Here are a few research papers relevant to transgender people, sorted by publication date
 
+- [Comparison of Subcutaneous Versus Intramuscular Estradiol Administration for Feminizing Gender-Affirming Hormone Therapy](https://www.mdpi.com/2226-4787/14/1/13)
+  - January 23, 2026
+  - [fulltext](https://www.mdpi.com/2226-4787/14/1/13)
+  ![[Comparison of Subcutaneous Versus Intramuscular Estradiol Administration for Feminizing Gender-Affirming Hormone Therapy.pdf]]
 - [Heart rate variability in transgender people receiving Gender-Affirming hormone therapy](https://link.springer.com/article/10.1007/s12020-025-04512-4)
   - February 16, 2026
   - fulltext not yet avaliable
