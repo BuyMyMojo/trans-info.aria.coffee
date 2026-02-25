@@ -35,6 +35,9 @@
   #if "email" in author [
     \ #link("mailto:" + author.email)
   ]
+  #if "orcid" in author [
+    \ #link("https://orcid.org/" + author.orcid)
+  ]
 ]
 
 #let render-author-grid(
@@ -59,7 +62,10 @@
         grid(
           columns: slice.len() * (1fr,),
           gutter: gutter,
-          ..slice.map(author => align(alignment, author-block(author, name-size: name-size)))
+          ..slice.map(author => align(alignment, author-block(
+            author,
+            name-size: name-size,
+          )))
         )
         if row < rows - 1 {
           v(row-gap, weak: true)
@@ -95,7 +101,9 @@
           #abstract
         ]
       }
-      #if abstract != none and (keywords != none or JEL != none) {
+      #if (
+        abstract != none and (keywords != none or JEL != none)
+      ) {
         v(section-gap, weak: true)
       }
       #if keywords != none {
@@ -165,7 +173,10 @@
     author: authors.map(author => author.name),
   )
 
-  set footnote.entry(separator: line(length: 100%, stroke: 0.5pt))
+  set footnote.entry(separator: line(
+    length: 100%,
+    stroke: 0.5pt,
+  ))
   set footnote.entry(indent: 0em, gap: 0.6em)
   show footnote.entry: set align(left)
 
@@ -281,7 +292,10 @@
   }
 
   set footnote(numbering: "1")
-  set footnote.entry(separator: line(length: 100%, stroke: 0.5pt))
+  set footnote.entry(separator: line(
+    length: 100%,
+    stroke: 0.5pt,
+  ))
   set footnote.entry(indent: 0em, gap: 0.6em)
 
   set align(left)
