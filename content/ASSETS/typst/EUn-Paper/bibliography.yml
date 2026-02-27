@@ -24,6 +24,69 @@ longacting-steroid-preparations:
         issue: 1
         publisher: American Physical Society
 
+why-dont-we-want-zero-testosterone:
+    type: Article
+    title: Why don’t we want zero testosterone?
+    url: https://pghrt.diy/#S9.SS1
+    author: ["Katie Tightpussy"]
+    date: 2025-08-20
+    parent:
+        type: Web
+        title: A PRACTICAL GUIDE TO FEMINIZING HRT
+        url: https://pghrt.diy/
+
+injection-monotherapy-dosing:
+    type: Article
+    title: Injection Monotherapy dosing/Accurate injection dosing
+    url: https://diyhrt.info/transfem/dosing/#injection-monotherapy-dosingaccurate-injection-dosing
+    author: ["diyhrt.info"]
+    parent:
+        type: Web
+        title: Transfeminine Guide - Dosing
+        url: https://diyhrt.info/transfem/dosing
+
+auspath-e2-level-rec:
+    type: Article
+    title: Monitoring estradiol-based GAHT
+    author: "AusPATH"
+    date: 2025
+    page-range: 32-32
+    parent:
+        type: Periodical
+        title: Australian Standards of Care for Informed Consent Gender-Affirming Hormone Therapy
+        volume: Version 2
+        publisher: Australian Professional Association for Trans Health
+
+wpath-e2-level-rec:
+    type: Article
+    title: Table 5
+    serial-number:
+        doi: 10.1080/26895269.2022.2100644
+    author: ["Coleman", "E.", "Radix", "A. E.", "Bouman", "W. P.", "Brown", "G. R.", "de Vries", "A. L. C.", 'Deutsch', "M. B.", "… Arcelus", "J."]
+    date: 2022-09-15
+    page-range: 255-255
+    parent:
+        type: Periodical
+        title: Standards of Care for the Health of Transgender and Gender Diverse People, Version 8
+        publisher: International Journal of Transgender Health
+        volume: 23
+        issue: sup1
+
+position-statement-hormonal-management:
+    type: Article
+    title: Position statement on the hormonal management of adult transgender and gender diverse individuals
+    serial-number:
+        doi: 10.22541/10.5694/mja2.50259
+    author: ["Cheung", "A. S.", "Wynne", "K.", "Erasmus", "J.", "Murray", "S.", "& Zajac", "J. D"]
+    page-range: 127-133
+    date: 2019
+    parent:
+        type: Periodical
+        title: Medical Journal of Australia
+        volume: 211
+        issue: 3
+        publisher: American Physical Society
+
 zygos:
     type: Article
     author:
