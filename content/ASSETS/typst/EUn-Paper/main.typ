@@ -2,7 +2,7 @@
 #import "@preview/lilaq:0.5.0" as lq
 #import "@preview/dashy-todo:0.1.3": todo
 #import "@preview/orchid:0.1.0"
-#import "@preview/glossarium:0.5.10": make-glossary, register-glossary, print-glossary, gls, glspl
+#import "@preview/glossarium:0.5.10": gls, glspl, make-glossary, print-glossary, register-glossary
 
 
 #show: make-glossary
@@ -10,19 +10,19 @@
   (
     key: "E2",
     long: "Oestradiol",
-    description: [#link("https://en.wikipedia.org/wiki/Estradiol")[Oestradiol], also called oestrogen, oestradiol, is an estrogen steroid hormone and the major female sex hormone.]
+    description: [#link("https://en.wikipedia.org/wiki/Estradiol")[Oestradiol], also called oestrogen, oestradiol, is an estrogen steroid hormone and the major female sex hormone.],
   ),
   (
     key: "T",
     long: "Testosterone",
-    description: [#link("https://en.wikipedia.org/wiki/Testosterone")[Testosterone] is the primary male sex hormone and androgen in males]
+    description: [#link("https://en.wikipedia.org/wiki/Testosterone")[Testosterone] is the primary male sex hormone and androgen in males],
   ),
   (
     key: "eun",
     short: "EUn",
     long: "Estradiol undecylate",
     description: [
-    #link("https://en.wikipedia.org/wiki/Estradiol_undecylate")[Estradiol undecylate], also known as estradiol undecanoate is a lesser used ester of #link("https://en.wikipedia.org/wiki/Estradiol")[Oestradiol]. Typically taken on a 30 day injection cycle, also taken in a shorter 14 day injection cycle.
+      #link("https://en.wikipedia.org/wiki/Estradiol_undecylate")[Estradiol undecylate], also known as estradiol undecanoate is a lesser used ester of #link("https://en.wikipedia.org/wiki/Estradiol")[Oestradiol]. Typically taken on a 30 day injection cycle, also taken in a shorter 14 day injection cycle.
     ],
   ),
   // Add more terms
@@ -59,7 +59,7 @@
       name: "Aria Quinlan",
       affiliation: "trans-info.aria.coffee",
       email: "hello@aria.coffee",
-      note: [#orchid.generate-link("0009-0004-6743-0109", format: "full",name: "Aia Quinlan")],
+      note: [#orchid.generate-link("0009-0004-6743-0109", format: "full", name: "Aia Quinlan")],
     ),
   ),
   date: "Febuary 2026", // version/date string (shown in both modes)
@@ -109,21 +109,21 @@ In this paper I will mention a "target range" in a few places, depending on what
 
 === AuthPATH guidelines:
 #quote(attribution: [@auspath-e2-level-rec])[
-"For those wishing to have complete testosterone suppression, the total testosterone target is < 2 nmol/L. [...] AusPATH SOC 2025 recommends maintaining estradiol concerntrations above 250 pmol/L, in accordance with Cheung et al."
+  "For those wishing to have complete testosterone suppression, the total testosterone target is < 2 nmol/L. [...] AusPATH SOC 2025 recommends maintaining estradiol concerntrations above 250 pmol/L, in accordance with Cheung et al."
 ]
 
 === Cheung et al:
 AusPATH SOC 2025 mentions the following target ranges:
 #quote(attribution: [@position-statement-hormonal-management])[
-"We recommend targeting estradiol levels of 250–600 pmol/L and total testosterone levels < 2 nmol/L"
+  "We recommend targeting estradiol levels of 250–600 pmol/L and total testosterone levels < 2 nmol/L"
 ]
 
 == WPATH Standards of Care, Version 8
 #quote(attribution: [@wpath-e2-level-rec])[
-"Serum testosterone levels should be less than 50 ng/dL."
+  "Serum testosterone levels should be less than 50 ng/dL."
 
 
-"Serum estradiol should be in the range of 100-200 pg/mL."
+  "Serum estradiol should be in the range of 100-200 pg/mL."
 ]
 
 // look at "Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society* Clinical Practice Guideline" https://academic.oup.com/jcem/article/102/11/3869/4157558
@@ -148,14 +148,14 @@ in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entir
     xaxis: (tick-distance: 1),
     lq.plot(
       (
-      datetime(year: 2026, month: 2, day: 06),
-      datetime(year: 2026, month: 2, day: 13),
-      datetime(year: 2026, month: 2, day: 20),
-    ),
-    (1189, 906, 496),
+        datetime(year: 2026, month: 2, day: 06),
+        datetime(year: 2026, month: 2, day: 13),
+        datetime(year: 2026, month: 2, day: 20),
+      ),
+      (1189, 906, 496),
       smooth: false,
       mark: "s",
-      label: [E2]
+      label: [E2],
     ),
   ),
   caption: [Overview of all #gls("E2") levels during this research],
@@ -179,21 +179,21 @@ The first injection was an injection of 16mg, this was origionally done in error
     xaxis: (tick-distance: 1),
     lq.plot(
       (
-      datetime(year: 2026, month: 2, day: 06),
-      datetime(year: 2026, month: 2, day: 13),
-      datetime(year: 2026, month: 2, day: 20),
-    ),
-    (1189, 906, 496),
+        datetime(year: 2026, month: 2, day: 06),
+        datetime(year: 2026, month: 2, day: 13),
+        datetime(year: 2026, month: 2, day: 20),
+      ),
+      (1189, 906, 496),
       smooth: false,
       mark: "s",
-      label: [E2]
+      label: [E2],
     ),
   ),
   caption: [The first 30 days of #gls("E2") after starting #gls("eun")],
 )<first-e2-levels>
 
 #quote(attribution: [@why-dont-we-want-zero-testosterone])[
-"...near-zero testosterone (less than 10 ng/dl, or 0.35 nmol/L) can cause issues..."
+  "...near-zero testosterone (less than 10 ng/dl, or 0.35 nmol/L) can cause issues..."
 ]
 
 #figure(
@@ -206,14 +206,14 @@ The first injection was an injection of 16mg, this was origionally done in error
     xaxis: (tick-distance: 1),
     lq.plot(
       (
-      datetime(year: 2026, month: 2, day: 06),
-      datetime(year: 2026, month: 2, day: 13),
-      datetime(year: 2026, month: 2, day: 20),
-    ),
-    (0.7, 0.6, 0.5),
+        datetime(year: 2026, month: 2, day: 06),
+        datetime(year: 2026, month: 2, day: 13),
+        datetime(year: 2026, month: 2, day: 20),
+      ),
+      (0.7, 0.6, 0.5),
       smooth: false,
       mark: "s",
-      label: [T]
+      label: [T],
     ),
   ),
   caption: [The first 30 days of #gls("T") after starting #gls("eun")],
@@ -225,7 +225,7 @@ From this point forward I moved to 32mg injection cycle as shown in @dosing-exam
   image("./Injection-Monotherapy-dosing.png", width: 80%),
   caption: [
     Dosages for estradiol injections @injection-monotherapy-dosing
-  ]
+  ],
 )<dosing-examples>
 
 = Discussion
@@ -243,6 +243,6 @@ From this point forward I moved to 32mg injection cycle as shown in @dosing-exam
 = Glossary
 
 #print-glossary(
- entry-list
+  entry-list,
 )
 
