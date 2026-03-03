@@ -109,16 +109,17 @@ In this paper I will mention a "target range" in a few places, depending on what
 
 === AuthPATH guidelines:
 #quote(attribution: [@auspath-e2-level-rec])[
-  "For those wishing to have complete testosterone suppression, the total testosterone target is < 2 nmol/L. [...] AusPATH SOC 2025 recommends maintaining estradiol concerntrations above 250 pmol/L, in accordance with Cheung et al."
+  "For those wishing to have complete testosterone suppression, the total testosterone target is < 2 nmol/L."
+
+  "AusPATH SOC 2025 recommends maintaining estradiol concerntrations above 250 pmol/L, in accordance with Cheung et al."
 ]
 
 === Cheung et al:
-AusPATH SOC 2025 mentions the following target ranges:
 #quote(attribution: [@position-statement-hormonal-management])[
   "We recommend targeting estradiol levels of 250–600 pmol/L and total testosterone levels < 2 nmol/L"
 ]
 
-== WPATH Standards of Care, Version 8
+=== WPATH Standards of Care, Version 8
 #quote(attribution: [@wpath-e2-level-rec])[
   "Serum testosterone levels should be less than 50 ng/dL."
 
@@ -126,7 +127,51 @@ AusPATH SOC 2025 mentions the following target ranges:
   "Serum estradiol should be in the range of 100-200 pg/mL."
 ]
 
-// look at "Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons: An Endocrine Society* Clinical Practice Guideline" https://academic.oup.com/jcem/article/102/11/3869/4157558
+=== Journal of Clinical Endocrinology & Metabolism
+
+#quote(attribution: [@endocrine-treatment-of-fender-dysphoric-and-gender-incongruent-persons])[
+  "Serum estradiol should not exceed the peak physiologic range: 100–200 pg/mL."
+]
+
+== Decision
+
+The above quotes are from trusted sources typically used in the education of medical professionals to help guide their decisions relating to GAHT.
+
+We convert the levels mentioned above to the same format in @e2-recommendations.
+
+#figure(
+  lq.diagram(
+    width: 100%,
+    height: 8cm,
+    title: [Target range by source],
+    ylabel: "pmol/L",
+    xlabel: "source",
+    xlim: (0, 5),
+    legend: (position: left, dy: -7.8em),
+    xaxis: (
+      ticks: range(1, 5).zip(([AusPath], [MJA], [WPATH], [JCEM])),
+    ),
+    lq.scatter(
+      (1, 2, 3, 4),
+      (250, 250, 367, 367),
+      size: (180, 180, 180, 180),
+      color: auto,
+      label: "Recommended Min",
+    ),
+    lq.scatter(
+      (2, 3, 4),
+      (600, 734, 734),
+      size: (180, 180, 180),
+      color: auto,
+      label: "Recommended Max",
+    ),
+  ),
+  caption: [Overview of #gls("E2") recommendations converted to pmol/L#footnote["AusPATH SOC 2025 does not recommend a specific upper limit for serum estradiol[...]" - @auspath-e2-level-rec]],
+)<e2-recommendations>
+
+Being informed about the recommended ranges as shown in @e2-recommendations helped form the goals for my own levels, I am aiming for my E2 trough levels to sit around 650pmol/L.
+
+to achieve this 32mg of EUn should prove sufficient in this goal.#footnote[Simulated injection cycle demonstrating this: #link("https://estrannai.se/#it1_cu,32,30,5-32,30,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5_cu,32,28,5")]
 
 #todo(position: "inline")["list more target ranges"]
 
@@ -162,8 +207,8 @@ in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entir
 )<all-e2-levels>
 
 
-== The first week
-in @first-e2-levels we look at the very first 30 days after taking #gls("eun").
+== The first cycle
+in @first-e2-levels we look at the very first 28 days after starting #gls("eun"), this mainly shows the fall off from EEn and the build up of #gls("eun") over that initial transition between medications.
 
 The test taken on the first injection day, #datetime(day: 6, month: 2, year: 2026).display(), shows my trough levels at the end of an EEn injection cycle with 5mg of EEn#footnote([Simulated injection cycle for reference: #link("https://estrannai.se/#i1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-4,7,2-5,7,2-5,7,2-5,7,2_c,5,7,2")]) but before the initial injection of #gls("eun").
 
@@ -216,7 +261,7 @@ The first injection was an injection of 16mg, this was origionally done in error
       label: [T],
     ),
   ),
-  caption: [The first 30 days of #gls("T") after starting #gls("eun")],
+  caption: [The first 28 days of #gls("T") after starting #gls("eun")],
 )<first-T-levels>
 
 From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("E2") levels to the recomended range#footnote([Simulation of #gls("E2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
@@ -227,6 +272,29 @@ From this point forward I moved to 32mg injection cycle as shown in @dosing-exam
     Dosages for estradiol injections @injection-monotherapy-dosing
   ],
 )<dosing-examples>
+
+== Average monthly cycle
+
+After my levels stabilized I started taking my blood tests at varying different times during my monthly cycle to build a scatter plot of where my levels sit X days after injection
+#figure(
+  lq.diagram(
+    width: 100%,
+    height: 8cm,
+    title: [E2 levels by days since injection],
+    ylabel: "pmol/L",
+    xlabel: "days since injection",
+    lq.scatter(
+      (0, 7, 14, 0, 7, 14, 1, 8, 16, 1, 8, 16),
+      (1189, 906, 496, 1180, 920, 480, 1100, 880, 470, 1120, 860, 465),
+      size: auto,
+      color: auto,
+      label: [E2],
+    ),
+  ),
+  caption: [
+    E2 levels sorted by days since injection#footnote[THIS IS A FABRICATION OF DATA!! It is too early to use real data, this figure is here just to help with laying out the paper.]
+  ],
+)<e2-by-days-from-injection>
 
 = Discussion
 #lorem(5)
