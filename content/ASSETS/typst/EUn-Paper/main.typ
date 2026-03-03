@@ -3,7 +3,7 @@
 #import "@preview/dashy-todo:0.1.3": todo
 #import "@preview/orchid:0.1.0"
 #import "@preview/glossarium:0.5.10": gls, glspl, make-glossary, print-glossary, register-glossary
-
+#import "@preview/drafting:0.2.2" : *
 
 #show: make-glossary
 #let entry-list = (
@@ -275,7 +275,7 @@ From this point forward I moved to 32mg injection cycle as shown in @dosing-exam
 
 == Average monthly cycle
 
-After my levels stabilized I started taking my blood tests at varying different times during my monthly cycle to build a scatter plot of where my levels sit X days after injection
+After my levels stabilized I started taking my blood tests at varying different times during my monthly cycle to build a scatter plot of where my levels sit X days after injection.
 #figure(
   lq.diagram(
     width: 100%,
@@ -292,9 +292,11 @@ After my levels stabilized I started taking my blood tests at varying different 
     ),
   ),
   caption: [
-    E2 levels sorted by days since injection#footnote[THIS IS A FABRICATION OF DATA!! It is too early to use real data, this figure is here just to help with laying out the paper.]
+    E2 levels sorted by days since injection
   ],
 )<e2-by-days-from-injection>
+#let caution-rect = rect.with(inset: 1em, radius: 0.5em)
+#inline-note(rect: caution-rect, fill: orange.lighten(80%))[THIS IS A FABRICATION OF DATA!! It is too early to use real data, this figure is here just to help with laying out the paper.]
 
 = Discussion
 #lorem(5)
