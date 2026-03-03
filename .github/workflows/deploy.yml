@@ -26,6 +26,9 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - uses: typst-community/setup-typst@v4
+      - name: Build preview EUn paper
+        run: typst compile -f pdf content/ASSETS/typst/EUn-Paper/main.typ content/ASSETS/PDFs/eun-paper-latest-preview.pdf
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
