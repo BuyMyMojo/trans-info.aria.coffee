@@ -87,6 +87,21 @@ position-statement-hormonal-management:
         issue: 3
         publisher: American Physical Society
 
+endocrine-treatment-of-fender-dysphoric-and-gender-incongruent-persons:
+    type: Article
+    title: Endocrine Treatment of Gender-Dysphoric/Gender-Incongruent Persons An Endocrine Society Clinical Practice Guideline
+    serial-number:
+        doi: 10.1210/jc.2017-01658
+    author: ["Wylie C Hembree", "Peggy T Cohen-Kettenis", "Louis Gooren", "Sabine E Hannema", "Walter J Meyer", "M Hassan Murad", "Stephen M Rosenthal", "Joshua D Safer", "Vin Tangpricha", "Guy G T’Sjoen"]
+    page-range: 13869–3903
+    date:  2017-09-13
+    parent:
+        type: Periodical
+        title: The Journal of Clinical Endocrinology & Metabolism
+        volume: 102
+        issue: 11
+        publisher: American Physical Society
+
 zygos:
     type: Article
     author:
