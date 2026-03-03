@@ -98,7 +98,7 @@
 #todo(position: "inline")["Start Introduction"]
 
 = Methods
-Frequent blood tests where taken, every 1 to 2 weeks depending on avaliability of my GP, in order to map out the trend of my #gls("E2") levels through out the usual injection cycle of #gls("eun") which is 30 days.
+Frequent blood tests where taken, every 1 to 2 weeks depending on availability of my GP, in order to map out the trend of my #gls("E2") levels through out the usual injection cycle of #gls("eun") which is 30 days.
 
 I sampled my lowest #gls("E2") either on the day of my injection or the day before when my injection day landed on a Sunday as my local pathology lab was closed.
 
@@ -212,7 +212,7 @@ in @first-e2-levels we look at the very first 28 days after starting #gls("eun")
 
 The test taken on the first injection day, #datetime(day: 6, month: 2, year: 2026).display(), shows my trough levels at the end of an EEn injection cycle with 5mg of EEn#footnote([Simulated injection cycle for reference: #link("https://estrannai.se/#i1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-4,7,2-5,7,2-5,7,2-5,7,2_c,5,7,2")]) but before the initial injection of #gls("eun").
 
-The first injection was an injection of 16mg, this was origionally done in error as I read the wrong value in my early research. Continuing this dose size would have caused substancially lower #gls("E2") levels than desired#footnote([Simulated values continuing this cycle: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5_cu,16,30,5")]).
+The first injection was an injection of 16mg, this was originally done in error as I read the wrong value in my early research. Continuing this dose size would have caused substantially lower #gls("E2") levels than desired#footnote([Simulated values continuing this cycle: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5_cu,16,30,5")]).
 
 #figure(
   lq.diagram(
@@ -237,7 +237,7 @@ The first injection was an injection of 16mg, this was origionally done in error
   caption: [The first 30 days of #gls("E2") after starting #gls("eun")],
 )<first-e2-levels>
 
-#quote(attribution: [@why-dont-we-want-zero-testosterone])[
+#quote(attribution: [#cite(<why-dont-we-want-zero-testosterone>, form: "prose")])[
   "...near-zero testosterone (less than 10 ng/dl, or 0.35 nmol/L) can cause issues..."
 ]
 
@@ -264,7 +264,7 @@ The first injection was an injection of 16mg, this was origionally done in error
   caption: [The first 28 days of #gls("T") after starting #gls("eun")],
 )<first-T-levels>
 
-From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("E2") levels to the recomended range#footnote([Simulation of #gls("E2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
+From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("E2") levels to the recommended range#footnote([Simulation of #gls("E2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
 
 #figure(
   image("./Injection-Monotherapy-dosing.png", width: 80%),
