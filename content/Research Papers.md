@@ -1,5 +1,9 @@
 Here are a few research papers relevant to transgender people, sorted by publication date
 
+- [Easing the burden: exploring the role of long-acting testosterone formulations in gender-affirming care](https://doi.org/10.3389/fpubh.2026.1751013)
+  - Febuary 11, 2026
+  - [fulltext](https://www.readcube.com/articles/10.3389/fpubh.2026.1751013)
+  ![[exploring the_role of long-acting testosterone_formulations in gender-affirming_care.pdf]]
 - [Comparison of Subcutaneous Versus Intramuscular Estradiol Administration for Feminizing Gender-Affirming Hormone Therapy](https://www.mdpi.com/2226-4787/14/1/13)
   - January 23, 2026
   - [fulltext](https://www.mdpi.com/2226-4787/14/1/13)
