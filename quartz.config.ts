@@ -1,5 +1,10 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import dotenv from 'dotenv'
+
+dotenv.config();
+
+const baseURL = process.env.BASE_URL;
 
 /**
  * Quartz 4 Configuration
@@ -14,7 +19,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "trans-info.aria.coffee",
+    baseUrl: baseURL,
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
