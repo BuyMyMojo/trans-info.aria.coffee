@@ -15,7 +15,7 @@ concurrency:
   cancel-in-progress: false
  
 jobs:
-  build:
+  build-and-deploy-to-wisp:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v4
@@ -35,6 +35,16 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
+      - run: |
+          curl https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
+      - run: |
+          chmod +x wisp-cli
+      - name: deploy to wisp
+        run: |
+          ./wisp-cli deploy "${{ vars.WISP_HANDLE }}" \
+            --path "./public" \
+            --site "${{ vars.SITE_NAME }}" \
+            --password "${{ secrets.WISP_APP_PASSWORD }}"
  
   deploy:
     needs: build
@@ -43,16 +53,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - run: |
-          curl https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
-      - run: |
-          chmod +x wisp-cli
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-      - name: deploy to wisp
-        run: |
-          ./wisp-cli deploy "${{ vars.WISP_HANDLE }}" \
-            --path "./public" \
-            --site "${{ vars.SITE_NAME }}" \
-            --password "${{ secrets.WISP_APP_PASSWORD }}"
