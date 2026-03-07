@@ -51,6 +51,12 @@ I want to get this out to as many individuals that need it as possible and make 
 
 Also I am collecting a ton of [[Research Papers]] relating to transgender people!
 
+# Alternative URL
+
+You can also find this website hosted via wisp.place as a backup!
+
+<strong>[trans-info.wisp.place](https://trans-info.wisp.place/)</strong>
+
 # YOU CAN HELP!
 
 Feel free to email me at transinfo@aria.coffee with info I missed relating to this website!
