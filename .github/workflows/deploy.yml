@@ -47,7 +47,7 @@ jobs:
             --password "${{ secrets.WISP_APP_PASSWORD }}"
  
   deploy:
-    needs: build
+    needs: build-and-deploy-to-wisp
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
