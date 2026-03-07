@@ -65,7 +65,8 @@ jobs:
           ./wisp-cli deploy "${{ vars.WISP_HANDLE }}" \
             --path "./public" \
             --site "${{ vars.SITE_NAME }}" \
-            --password "${{ secrets.WISP_APP_PASSWORD }}"
+            --password "${{ secrets.WISP_APP_PASSWORD }}" \
+            --spa
 
   deploy:
     needs: build
