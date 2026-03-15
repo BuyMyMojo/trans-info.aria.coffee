@@ -3,7 +3,7 @@
 #import "@preview/dashy-todo:0.1.3": todo
 #import "@preview/orchid:0.1.0"
 #import "@preview/glossarium:0.5.10": gls, glspl, make-glossary, print-glossary, register-glossary
-#import "@preview/drafting:0.2.2" : *
+#import "@preview/drafting:0.2.2": *
 
 #show: make-glossary
 #let entry-list = (
@@ -23,6 +23,14 @@
     long: "Estradiol undecylate",
     description: [
       #link("https://en.wikipedia.org/wiki/Estradiol_undecylate")[Estradiol undecylate], also known as estradiol undecanoate is a lesser used ester of #link("https://en.wikipedia.org/wiki/Estradiol")[Oestradiol]. Typically taken on a 30 day injection cycle, also taken in a shorter 14 day injection cycle.
+    ],
+  ),
+  (
+    key: "een",
+    short: "EEn",
+    long: "Estradiol enantate",
+    description: [
+      #link("https://en.wikipedia.org/wiki/Estradiol_enantate")[Estradiol enantate], also spelled estradiol enanthate and sold under the brand names Perlutal and Topasel among others is an ester of #link("https://en.wikipedia.org/wiki/Estradiol")[Oestradiol]. Typically taken on a 7 day injection cycle, it is most commonly used within Canada, Mexico and much of South America.
     ],
   ),
   // Add more terms
@@ -177,42 +185,26 @@ to achieve this 32mg of EUn should prove sufficient in this goal.#footnote[Simul
 
 #todo(position: "inline")["Define my target range"]
 
-= Results
+== injections
 
-== Overall levels
-
-in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entire course of this research.
+In order to achieve satisfying results & levels I will be following the recommend injection dose from diyhrt.info every 28 days as to keep the same injection weekday every month.
 
 #figure(
-  lq.diagram(
-    width: 100%,
-    height: 8cm,
-    title: [OESTRADIOL],
-    ylabel: "pmol/L",
-    xlabel: "date",
-    xaxis: (tick-distance: 1),
-    lq.plot(
-      (
-        datetime(year: 2026, month: 2, day: 06),
-        datetime(year: 2026, month: 2, day: 13),
-        datetime(year: 2026, month: 2, day: 20),
-      ),
-      (1189, 906, 496),
-      smooth: false,
-      mark: "s",
-      label: [E2],
-    ),
-  ),
-  caption: [Overview of all #gls("E2") levels during this research],
-)<all-e2-levels>
+  image("./Injection-Monotherapy-dosing.png", width: 80%),
+  caption: [
+    Dosages for estradiol injections @injection-monotherapy-dosing
+  ],
+)<dosing-examples>
+
+= Results
 
 
 == The first cycle
-in @first-e2-levels we look at the very first 28 days after starting #gls("eun"), this mainly shows the fall off from EEn and the build up of #gls("eun") over that initial transition between medications.
+In @first-e2-levels we look at the very first 28 days after starting #gls("eun"), this mainly shows the fall off from #gls("een") and the build up of #gls("eun") over that initial transition between medications.
 
-The test taken on the first injection day, #datetime(day: 6, month: 2, year: 2026).display(), shows my trough levels at the end of an EEn injection cycle with 5mg of EEn#footnote([Simulated injection cycle for reference: #link("https://estrannai.se/#i1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-4,7,2-5,7,2-5,7,2-5,7,2_c,5,7,2")]) but before the initial injection of #gls("eun").
+The test taken on the first injection day, #datetime(day: 6, month: 2, year: 2026).display(), shows my trough levels at the end of an #gls("een") injection cycle with 5mg of #gls("een")#footnote([Simulated injection cycle for reference: #link("https://estrannai.se/#i1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-4,7,2-5,7,2-5,7,2-5,7,2_c,5,7,2")]) but before the initial injection of #gls("eun").
 
-The first injection was an injection of 16mg, this was originally done in error as I read the wrong value in my early research. Continuing this dose size would have caused substantially lower #gls("E2") levels than desired#footnote([Simulated values continuing this cycle: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5_cu,16,30,5")]).
+The first injection was an injection of 16mg, this was originally done in error as I read the wrong value in my early research. Continuing this dose size would have caused substantially lower #gls("E2") levels than desired#footnote([Simulated values continuing this cycle: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5_cu,16,30,5")])<fn6>.
 
 #figure(
   lq.diagram(
@@ -222,20 +214,67 @@ The first injection was an injection of 16mg, this was originally done in error 
     ylabel: "pmol/L",
     xlabel: "date",
     xaxis: (tick-distance: 1),
+    lq.rect(
+      0%,
+      367,
+      width: 100%,
+      height: 367,
+      fill: purple.transparentize(80%),
+      stroke: none,
+      label: [Target range],
+      z-index: 1,
+    ),
     lq.plot(
       (
         datetime(year: 2026, month: 2, day: 06),
         datetime(year: 2026, month: 2, day: 13),
         datetime(year: 2026, month: 2, day: 20),
+        datetime(year: 2026, month: 3, day: 06),
       ),
-      (1189, 906, 496),
+      (1189, 906, 496, 452),
       smooth: false,
       mark: "s",
       label: [E2],
     ),
   ),
-  caption: [The first 30 days of #gls("E2") after starting #gls("eun")],
+  caption: [The first 28 days of #gls("E2") after starting #gls("eun")],
 )<first-e2-levels>
+
+#figure(
+  lq.diagram(
+    width: 100%,
+    height: 8cm,
+    title: [TESTOSTERONE],
+    ylabel: "nomol/L",
+    xlabel: "date",
+    xaxis: (tick-distance: 1),
+    lq.rect(
+      0%,
+      0.35,
+      width: 100%,
+      height: 0.45,
+      fill: purple.transparentize(80%),
+      stroke: none,
+      label: [Target range],
+      z-index: 1,
+    ),
+    lq.plot(
+      (
+        datetime(year: 2026, month: 2, day: 06),
+        datetime(year: 2026, month: 2, day: 13),
+        datetime(year: 2026, month: 2, day: 20),
+        datetime(year: 2026, month: 3, day: 06),
+      ),
+      (0.7, 0.6, 0.5, 0.6),
+      smooth: false,
+      mark: "s",
+      label: [Testosterone],
+    ),
+  ),
+  caption: [The first 28 days of #gls("T") after starting #gls("eun")],
+)<first-T-levels>
+
+In simulations from Estrannai my trough level was estimated to be 125pmol/L by the end of the first cycle@fn6 but as seen in @first-e2-levels it only dropped down to 452 which is well within my target range. This demonstrates an inaccuracy in the Estrannai model. Continued monitoring should reveal some very interesting insights for this.
 
 #quote(attribution: [#cite(<why-dont-we-want-zero-testosterone>, form: "prose")])[
   "...near-zero testosterone (less than 10 ng/dl, or 0.35 nmol/L) can cause issues..."
@@ -266,15 +305,96 @@ The first injection was an injection of 16mg, this was originally done in error 
 
 From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("E2") levels to the recommended range#footnote([Simulation of #gls("E2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
 
+== Overall levels
+
+in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entire course of this research.
+
 #figure(
-  image("./Injection-Monotherapy-dosing.png", width: 80%),
-  caption: [
-    Dosages for estradiol injections @injection-monotherapy-dosing
-  ],
-)<dosing-examples>
+  lq.diagram(
+    width: 100%,
+    height: 8cm,
+    title: [OESTRADIOL],
+    ylabel: "pmol/L",
+    xlabel: "date",
+    xaxis: (tick-distance: 1),
+    lq.rect(
+      0%,
+      367,
+      width: 100%,
+      height: 367,
+      fill: purple.transparentize(80%),
+      stroke: none,
+      label: [Target range],
+      z-index: 1,
+    ),
+    lq.vlines(
+      datetime(year: 2026, month: 2, day: 06),
+      datetime(year: 2026, month: 3, day: 06),
+      stroke: (paint: orange, dash: "dashed"),
+      label: [Injection],
+    ),
+    lq.plot(
+      (
+        datetime(year: 2026, month: 2, day: 06),
+        datetime(year: 2026, month: 2, day: 13),
+        datetime(year: 2026, month: 2, day: 20),
+        datetime(year: 2026, month: 3, day: 06),
+      ),
+      (1189, 906, 496, 452),
+      smooth: false,
+      mark: "s",
+      label: [E2],
+    ),
+  ),
+  caption: [Overview of all #gls("E2") levels during this research],
+)<all-e2-levels>
+
+#figure(
+  lq.diagram(
+    width: 100%,
+    height: 8cm,
+    title: [OESTRADIOL Control vs Simulation],
+    ylabel: "pmol/L",
+    xlabel: "date",
+    xaxis: (tick-distance: 1),
+    lq.vlines(
+      datetime(year: 2026, month: 2, day: 06),
+      datetime(year: 2026, month: 3, day: 06),
+      stroke: (paint: orange, dash: "dashed"),
+      label: [Injection],
+    ),
+    lq.plot(
+      (
+        datetime(year: 2026, month: 2, day: 06),
+        datetime(year: 2026, month: 2, day: 13),
+        datetime(year: 2026, month: 2, day: 20),
+        datetime(year: 2026, month: 3, day: 06),
+      ),
+      (1189, 906, 496, 452),
+      smooth: false,
+      mark: "s",
+      label: [Control],
+    ),
+    lq.plot(
+      (
+        datetime(year: 2026, month: 2, day: 06),
+        datetime(year: 2026, month: 2, day: 13),
+        datetime(year: 2026, month: 2, day: 20),
+        datetime(year: 2026, month: 3, day: 06),
+      ),
+      (1150, 550, 312, 133),
+      smooth: false,
+      mark: "s",
+      label: [Estrannai],
+    ),
+  ),
+  caption: [Overview of all #gls("E2") levels during this research compared to current estimated from Estrannai],
+)<all-e2-levels-compared-to-sim>
+
+
 
 == Average monthly cycle
-  
+
 After my levels stabilized I started taking my blood tests at varying different times during my monthly cycle to build a scatter plot of where my levels sit X days after injection.
 
 #figure(
@@ -297,7 +417,10 @@ After my levels stabilized I started taking my blood tests at varying different 
   ],
 )<e2-by-days-from-injection>
 #let caution-rect = rect.with(inset: 1em, radius: 0.5em)
-#inline-note(rect: caution-rect, fill: orange.lighten(80%))[THIS IS A FABRICATION OF DATA!! It is too early to use real data, this figure is here just to help with laying out the paper.]
+#inline-note(
+  rect: caution-rect,
+  fill: orange.lighten(80%),
+)[THIS IS A FABRICATION OF DATA!! It is too early to use real data, this figure is here just to help with laying out the paper.]
 
 
 = Discussion
