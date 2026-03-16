@@ -8,5 +8,4 @@ There is a lot that female hormones can change both physically and mentally!
 >
 > \- [A PRACTICAL GUIDE TO FEMINIZING HRT S1.12
  (Katie)](https://pghrt.diy/#S1.SS12)
-
-\- [diyhrt.info's guide](https://diyhrt.info/transfem/intro/#what-does-it-do)
+ 
