@@ -1,3 +1,5 @@
+# Papers!
+
 Here are a few research papers relevant to transgender people, sorted by publication date
 
 - [Easing the burden: exploring the role of long-acting testosterone formulations in gender-affirming care](https://doi.org/10.3389/fpubh.2026.1751013)
