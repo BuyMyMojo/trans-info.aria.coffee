@@ -13,6 +13,8 @@ This page will link to different broad topics and those will link to individual 
 
 There will be LOTS of linking to other websites, I feel these websites already have great descriptions and info on the topic, no need to rewrite words someone has done beautifully already.
 
+Any extra recommendations I make are from my own personal experience and research and should not be taken as gospel! please do research into the other sources around the internet.
+
 ## Why?
 
 I am from a small rural town in Australia and found myself needing to learn a TON of info about transitioning on my own with heavy research so I could safely begin my transition on my own.
