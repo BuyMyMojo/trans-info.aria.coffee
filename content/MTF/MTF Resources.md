@@ -25,7 +25,9 @@ Go take a look at [Transfeminine Science](https://transfemscience.org/) for a bu
 
 - https://diyhrt.market/
 - https://hrt.coffee/ - OFFLINE! 
-- https://hrtcafe.net/ - OFFLINE! [^1]
+- https://hrtcafe.net/ - OFFLINE! [^1][^2]
 
 
 [^1]: great new article on this going offline here: https://xtramagazine.com/video/hrt-cafe-shutdown-diy-trans-care-280964
+
+[^2]: Preserved copy of their advanced homebrew tutorial: https://perma.cc/2TU2-B9T9
