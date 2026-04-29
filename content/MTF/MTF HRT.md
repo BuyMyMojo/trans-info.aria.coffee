@@ -12,3 +12,6 @@ For what HRT is see [diyhrt.info's page](https://diyhrt.info/transfem/intro/#wha
 
 - [[MTF Effects]] - What does it to?
 - [[MTF forms of HRT]] - deeper information on different routes
+- [[MTF Dosages]] - What dosage do I need?
+- [[MTF Target Ranges]] - What are the recommended hormone levels for me?
+- [[Testosterone Blockers]] - Sometimes you need these!

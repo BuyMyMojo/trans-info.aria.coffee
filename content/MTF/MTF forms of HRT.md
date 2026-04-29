@@ -13,6 +13,13 @@ Generally in pill form the bioavailability is low so right off the bat I recomme
 
 Sublingual is around 1.5x more effective at absorbing oestrogen compared to the oral route.[^1]
 
+See [[MTF Dosages#Pill dosage]] for dosage infor
+
+
 [^1]: See DOI: [10.1089/trgh.2023.0138](https://doi.org/10.1089/trgh.2023.0138) for more information. the 1.5x claim is specifically from "Table 4 - Mean Estrone/Estradiol Ratio". Fig 2 is a great visual comparison. this paper can also be found on [[Research Papers]].
 	
 	paper name: Comparison of Estrone/Estradiol Ratio and Levels in Transfeminine Individuals on Different Routes of Estradiol
+
+## Injections
+
+### Estradiol Undecylate
