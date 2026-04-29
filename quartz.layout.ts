@@ -8,6 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
+      "Tangled Repo": "https://tangled.org/aria.pds.witchcraft.systems/trans-info.aria.coffee",
       GitHub: "https://github.com/BuyMyMojo/trans-info.aria.coffee",
       "Email me!": "mailto:transinfo@aria.coffee",
     },
