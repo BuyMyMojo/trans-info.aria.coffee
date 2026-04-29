@@ -7,8 +7,6 @@ title: Welcome to The Trans Directory
 > 
 > Please seek out the contact information at the bottom if you have any requests or useful resources!
 
-
-
 Welcome! This is a project by [Aria](https://aria.coffee) to get as much information about transitioning as she can into one place!
 
 This page will link to different broad topics and those will link to individual bits of info, don't feel the need to take all of this in, just look for what applies to you or what you want to learn more about.
