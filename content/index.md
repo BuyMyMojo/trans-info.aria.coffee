@@ -5,6 +5,8 @@ title: Welcome to The Trans Directory
 > This website is under heavy development!
 > all the info on these pages are checked before uploading and will be accurate still, the website itself will change a lot however.
 > 
+> Some pages may be unfinished, check the resource pages for other sources in the mean time!
+> 
 > Please seek out the contact information at the bottom if you have any requests or useful resources!
 
 Welcome! This is a project by [Aria](https://aria.coffee) to get as much information about transitioning as she can into one place!
@@ -28,7 +30,7 @@ I want to get this out to as many individuals that need it as possible and make 
 > [!warning]
 > PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
 
-- [[Genderal Resources]] - Get links that apply to everyone or specific regions!
+- [[Genderal Resources]] - Get links that apply to everyone or specific regions![^1]
 - [[Supporter Resources]] - Get links for helping those unfamilar understand what it's like to be trans
 - [[Surgeries]] - Overview of common gender-affirming surgical procedures
 - [[Voice Training]] - Resources for voice feminization and masculinization
@@ -86,3 +88,5 @@ Discord: @aphantic
 <sub>
     Permalink for this website: https://perma.cc/FCR6-ZF3V
 </sub>
+
+[^1]: The spelling mistake is on purpose, I think *Gender*al is funny.
