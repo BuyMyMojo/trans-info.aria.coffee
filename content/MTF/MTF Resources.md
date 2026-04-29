@@ -24,5 +24,8 @@ Go take a look at [Transfeminine Science](https://transfemscience.org/) for a bu
 ## DIY sources
 
 - https://diyhrt.market/
-- https://hrt.coffee/
-- https://hrtcafe.net/
+- https://hrt.coffee/ - OFFLINE! 
+- https://hrtcafe.net/ - OFFLINE! [^1]
+
+
+[^1]: great new article on this going offline here: https://xtramagazine.com/video/hrt-cafe-shutdown-diy-trans-care-280964
