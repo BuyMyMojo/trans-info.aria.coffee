@@ -275,7 +275,7 @@ The first injection was an injection of 16mg, this was originally done in error 
   caption: [The first 28 days of #gls("T") after starting #gls("eun")],
 )<first-T-levels>
 
-In simulations from Estrannai my trough level was estimated to be 125pmol/L by the end of the first cycle@fn6 but as seen in @first-e2-levels it only dropped down to 452 which is well within my target range. This demonstrates an inaccuracy in the Estrannai model. Continued monitoring should reveal some very interesting insights for this.
+In simulations from Estrannai my trough level was estimated to be 125pmol/L by the end of the first cycle@fn6 but as seen in @first-e2-levels it only dropped down to 452 which is well within my target range.#todo(position: "inline")["rewrite as it is not 'well within my target range'"] This demonstrates an inaccuracy in the Estrannai model. Continued monitoring should reveal some very interesting insights for this.
 
 #quote(attribution: [#cite(<why-dont-we-want-zero-testosterone>, form: "prose")])[
   "...near-zero testosterone (less than 10 ng/dl, or 0.35 nmol/L) can cause issues..."
@@ -316,6 +316,8 @@ In simulations from Estrannai my trough level was estimated to be 125pmol/L by t
   ),
   caption: [All recording of #gls("T") after starting #gls("eun")],
 )<all-T-levels>
+
+#todo(position: "inline")["add some info on global T levels somewhere"]
 
 From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("e2") levels to the recommended range#footnote([Simulation of #gls("e2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
 
