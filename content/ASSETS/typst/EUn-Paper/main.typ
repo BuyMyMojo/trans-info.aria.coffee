@@ -8,7 +8,8 @@
 #show: make-glossary
 #let entry-list = (
   (
-    key: "E2",
+    key: "e2",
+    short: "E2",
     long: "Oestradiol",
     description: [#link("https://en.wikipedia.org/wiki/Estradiol")[Oestradiol], also called oestrogen, oestradiol, is an estrogen steroid hormone and the major female sex hormone.],
   ),
@@ -41,8 +42,8 @@
 #show quote: set align(center)
 #show quote: set pad(x: 5em)
 
-//#import "@preview/catppuccin:1.1.0": catppuccin, flavors
-//#show: catppuccin.with(flavors.frappe)
+// #import "@preview/catppuccin:1.1.0": catppuccin, flavors
+// #show: catppuccin.with(flavors.frappe)
 
 #import "extra.typ": *
 #show: great-theorems-init
@@ -106,9 +107,9 @@
 #todo(position: "inline")["Start Introduction"]
 
 = Methods
-Frequent blood tests where taken, every 1 to 2 weeks depending on availability of my GP, in order to map out the trend of my #gls("E2") levels through out the usual injection cycle of #gls("eun") which is 30 days.
+Frequent blood tests where taken, every 1 to 2 weeks depending on availability of my GP, in order to map out the trend of my #gls("e2") levels through out the usual injection cycle of #gls("eun") which is 30 days.
 
-I sampled my lowest #gls("E2") either on the day of my injection or the day before when my injection day landed on a Sunday as my local pathology lab was closed.
+I sampled my lowest #gls("e2") either on the day of my injection or the day before when my injection day landed on a Sunday as my local pathology lab was closed.
 
 #todo(position: "inline")["Expand on my method as I continue researching"]
 
@@ -174,7 +175,7 @@ We convert the levels mentioned above to the same format in @e2-recommendations.
       label: "Recommended Max",
     ),
   ),
-  caption: [Overview of #gls("E2") recommendations converted to pmol/L#footnote["AusPATH SOC 2025 does not recommend a specific upper limit for serum estradiol[...]" - @auspath-e2-level-rec]],
+  caption: [Overview of #gls("e2") recommendations converted to pmol/L#footnote["AusPATH SOC 2025 does not recommend a specific upper limit for serum estradiol[...]" - @auspath-e2-level-rec]],
 )<e2-recommendations>
 
 Being informed about the recommended ranges as shown in @e2-recommendations helped form the goals for my own levels, I am aiming for my E2 trough levels to sit around 650pmol/L.
@@ -204,7 +205,7 @@ In @first-e2-levels we look at the very first 28 days after starting #gls("eun")
 
 The test taken on the first injection day, #datetime(day: 6, month: 2, year: 2026).display(), shows my trough levels at the end of an #gls("een") injection cycle with 5mg of #gls("een")#footnote([Simulated injection cycle for reference: #link("https://estrannai.se/#i1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-4,7,2-5,7,2-5,7,2-5,7,2_c,5,7,2")]) but before the initial injection of #gls("eun").
 
-The first injection was an injection of 16mg, this was originally done in error as I read the wrong value in my early research. Continuing this dose size would have caused substantially lower #gls("E2") levels than desired#footnote([Simulated values continuing this cycle: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5_cu,16,30,5")])<fn6>.
+The first injection was an injection of 16mg, this was originally done in error as I read the wrong value in my early research. Continuing this dose size would have caused substantially lower #gls("e2") levels than desired#footnote([Simulated values continuing this cycle: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5-16,30,5_cu,16,30,5")])<fn6>.
 
 #figure(
   lq.diagram(
@@ -237,7 +238,7 @@ The first injection was an injection of 16mg, this was originally done in error 
       label: [E2],
     ),
   ),
-  caption: [The first 28 days of #gls("E2") after starting #gls("eun")],
+  caption: [The first 28 days of #gls("e2") after starting #gls("eun")],
 )<first-e2-levels>
 
 #figure(
@@ -288,26 +289,39 @@ In simulations from Estrannai my trough level was estimated to be 125pmol/L by t
     ylabel: "nmol/L",
     xlabel: "date",
     xaxis: (tick-distance: 1),
+    lq.rect(
+      0%,
+      0.35,
+      width: 100%,
+      height: 0.45,
+      fill: purple.transparentize(80%),
+      stroke: none,
+      label: [Target range],
+      z-index: 1,
+    ),
     lq.plot(
       (
         datetime(year: 2026, month: 2, day: 06),
         datetime(year: 2026, month: 2, day: 13),
         datetime(year: 2026, month: 2, day: 20),
+        datetime(year: 2026, month: 3, day: 16),
+        datetime(year: 2026, month: 3, day: 26),
+        datetime(year: 2026, month: 4, day: 07),
       ),
-      (0.7, 0.6, 0.5),
+      (0.7, 0.6, 0.5, 0.6, 0.6, 0.4),
       smooth: false,
       mark: "s",
       label: [T],
     ),
   ),
-  caption: [The first 28 days of #gls("T") after starting #gls("eun")],
-)<first-T-levels>
+  caption: [All recording of #gls("T") after starting #gls("eun")],
+)<all-T-levels>
 
-From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("E2") levels to the recommended range#footnote([Simulation of #gls("E2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
+From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("e2") levels to the recommended range#footnote([Simulation of #gls("e2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
 
 == Overall levels
 
-in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entire course of this research.
+in @all-e2-levels we look at my #gls("e2") levels(pmol per litre) over the entire course of this research.
 
 #figure(
   lq.diagram(
@@ -330,6 +344,8 @@ in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entir
     lq.vlines(
       datetime(year: 2026, month: 2, day: 06),
       datetime(year: 2026, month: 3, day: 06),
+      datetime(year: 2026, month: 4, day: 03),
+      datetime(year: 2026, month: 5, day: 01),
       stroke: (paint: orange, dash: "dashed"),
       label: [Injection],
     ),
@@ -339,14 +355,16 @@ in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entir
         datetime(year: 2026, month: 2, day: 13),
         datetime(year: 2026, month: 2, day: 20),
         datetime(year: 2026, month: 3, day: 06),
+        datetime(year: 2026, month: 3, day: 16),
+        datetime(year: 2026, month: 4, day: 07),
       ),
-      (1189, 906, 496, 452),
+      (1189, 906, 496, 452, 778, 1055),
       smooth: false,
       mark: "s",
       label: [E2],
     ),
   ),
-  caption: [Overview of all #gls("E2") levels during this research],
+  caption: [Overview of all #gls("e2") levels during this research],
 )<all-e2-levels>
 
 #figure(
@@ -360,6 +378,8 @@ in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entir
     lq.vlines(
       datetime(year: 2026, month: 2, day: 06),
       datetime(year: 2026, month: 3, day: 06),
+      datetime(year: 2026, month: 4, day: 03),
+      datetime(year: 2026, month: 5, day: 01),
       stroke: (paint: orange, dash: "dashed"),
       label: [Injection],
     ),
@@ -369,8 +389,10 @@ in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entir
         datetime(year: 2026, month: 2, day: 13),
         datetime(year: 2026, month: 2, day: 20),
         datetime(year: 2026, month: 3, day: 06),
+        datetime(year: 2026, month: 3, day: 16),
+        datetime(year: 2026, month: 4, day: 07),
       ),
-      (1189, 906, 496, 452),
+      (1189, 906, 496, 452, 778, 1055),
       smooth: false,
       mark: "s",
       label: [Control],
@@ -381,14 +403,16 @@ in @all-e2-levels we look at my #gls("E2") levels(pmol per litre) over the entir
         datetime(year: 2026, month: 2, day: 13),
         datetime(year: 2026, month: 2, day: 20),
         datetime(year: 2026, month: 3, day: 06),
+        datetime(year: 2026, month: 3, day: 16),
+        datetime(year: 2026, month: 4, day: 07),
       ),
-      (1150, 550, 312, 133),
+      (1150, 550, 312, 129, 163, 282),
       smooth: false,
       mark: "s",
       label: [Estrannai],
     ),
   ),
-  caption: [Overview of all #gls("E2") levels during this research compared to current estimated from Estrannai],
+  caption: [Overview of all #gls("e2") levels during this research compared to current estimated from Estrannai],
 )<all-e2-levels-compared-to-sim>
 
 
@@ -405,8 +429,10 @@ After my levels stabilized I started taking my blood tests at varying different 
     ylabel: "pmol/L",
     xlabel: "days since injection",
     lq.scatter(
-      (0, 7, 14, 0, 7, 14, 1, 8, 16, 1, 8, 16),
-      (1189, 906, 496, 1180, 920, 480, 1100, 880, 470, 1120, 860, 465),
+      // data by injection date:
+      // (2026-03-06, 2026-04-03)
+      (10, 4),
+      (778, 1055),
       size: auto,
       color: auto,
       label: [E2],
@@ -420,7 +446,7 @@ After my levels stabilized I started taking my blood tests at varying different 
 #inline-note(
   rect: caution-rect,
   fill: orange.lighten(80%),
-)[THIS IS A FABRICATION OF DATA!! It is too early to use real data, this figure is here just to help with laying out the paper.]
+)[SOMF OF THIS DATA IS FABRICATED!! It is too early to use real data to fill out all this plot, this figure is here just to help with laying out the paper.]
 
 
 = Discussion
