@@ -36,7 +36,7 @@
 #register-glossary(entry-list)
 
 #show: arkheion.with(
-  title: "The data from the WIP paper: \"Use of Estradiol Undecylate for MTF HRT: Research and Experimentation\"",
+  title: [The data from the WIP paper: \"Use of Estradiol Undecylate for MTF HRT: Research and Experimentation\"#footnote("This paper is a work in progress. Please do not cite without permission.")],
   authors: (
     (
       name: "Aria Brady Quinlan",
