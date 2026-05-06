@@ -29,6 +29,8 @@ jobs:
       - uses: typst-community/setup-typst@v4
       - name: Build preview EUn paper
         run: typst compile -f pdf content/ASSETS/typst/EUn-Paper/main.typ content/ASSETS/PDFs/eun-paper-latest-preview.pdf
+      - name: Build preview EUn paper data supplementary
+        run: typst compile -f pdf content/ASSETS/typst/EUn-Paper-Data-Sup/manual.typ content/ASSETS/PDFs/eun-paper-data-latest-preview.pdf
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
@@ -54,6 +56,8 @@ jobs:
       - uses: typst-community/setup-typst@v4
       - name: Build preview EUn paper
         run: typst compile -f pdf content/ASSETS/typst/EUn-Paper/main.typ content/ASSETS/PDFs/eun-paper-latest-preview.pdf
+      - name: Build preview EUn paper data supplementary
+        run: typst compile -f pdf content/ASSETS/typst/EUn-Paper-Data-Sup/manual.typ content/ASSETS/PDFs/eun-paper-data-latest-preview.pdf
       - name: Build Quartz
         run: npx quartz build
       - run: |
