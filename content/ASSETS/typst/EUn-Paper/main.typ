@@ -68,7 +68,7 @@
       name: "Aria Quinlan",
       affiliation: "trans-info.aria.coffee",
       email: "hello@aria.coffee",
-      note: [#orchid.generate-link("0009-0004-6743-0109", format: "full", name: "Aia Quinlan")],
+      note: [#orchid.generate-link("0009-0004-6743-0109", format: "full", name: "Aria Brady Quinlan")],
     ),
   ),
   date: "Febuary 2026", // version/date string (shown in both modes)
