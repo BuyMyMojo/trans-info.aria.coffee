@@ -14,6 +14,8 @@ The [SOC8](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644) st
 
 Serum estradiol should not exceed the peak physiologic range: 100–200 pg/mL.
 
+## Conclusion
+
 ![[TargetRangeBySource.png]]
 This graph is small excerpt from the research paper I am writing.
 
