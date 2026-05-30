@@ -30,6 +30,7 @@ I want to get this out to as many individuals that need it as possible and make 
 > [!warning]
 > PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
 
+- [[Standards of Care]] - this page holds a bunch of the current medical guidelines for transgender healthcare 
 - [[Genderal Resources]] - Get links that apply to everyone or specific regions![^1]
 - [[Supporter Resources]] - Get links for helping those unfamiliar understand what it's like to be trans
 - [[Surgeries]] - Overview of common gender-affirming surgical procedures
