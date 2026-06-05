@@ -2,6 +2,9 @@
 
 Here are a few research papers relevant to transgender people, sorted by publication date
 
+- [Effect of gender affirming hormone therapy on bone mineral density and bone marrow composition in transgender adults](https://doi.org/10.1007/s12020-025-04499-y)
+	- 18 November 2025
+	![[Effect of gender affirming hormone therapy on bone mineral density and bone marrow composition in transgender adults.pdf]]
 - [Easing the burden: exploring the role of long-acting testosterone formulations in gender-affirming care](https://doi.org/10.3389/fpubh.2026.1751013)
   - Febuary 11, 2026
   - [fulltext](https://www.readcube.com/articles/10.3389/fpubh.2026.1751013)
