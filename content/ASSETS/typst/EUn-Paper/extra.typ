@@ -2,7 +2,7 @@
 
 #import "@preview/rich-counters:0.2.2": *
 
-#import "@preview/mitex:0.2.5": *
+#import "@preview/mitex:0.2.7": *
 
 #import "@preview/cetz:0.4.2"
 
