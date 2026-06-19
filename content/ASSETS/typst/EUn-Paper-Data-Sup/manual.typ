@@ -1,5 +1,5 @@
 #import "@preview/arkheion:0.1.2": arkheion, arkheion-appendices
-#import "@preview/lilaq:0.5.0" as lq
+#import "@preview/lilaq:0.6.0" as lq
 #import "@preview/glossarium:0.5.10": gls, glspl, make-glossary, print-glossary, register-glossary
 
 #show: make-glossary

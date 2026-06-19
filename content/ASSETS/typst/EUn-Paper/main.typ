@@ -1,5 +1,5 @@
 #import "@preview/ssrn-scribe:0.9.1": *
-#import "@preview/lilaq:0.5.0" as lq
+#import "@preview/lilaq:0.6.0" as lq
 #import "@preview/dashy-todo:0.1.3": todo
 #import "@preview/orchid:0.1.0"
 #import "@preview/glossarium:0.5.10": gls, glspl, make-glossary, print-glossary, register-glossary
