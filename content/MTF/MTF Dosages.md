@@ -24,7 +24,7 @@ In many standards of care that doctors follow it states to start at a much lower
 
 The big issue with the recommended low end of the dosages is when prescribed with T blockers you are likely to have neither sex hormone at a healthy level.
 When both hormones are low you can be risking accelerated bone loss, fatigue, low mood, hot flushes, low libido, joint aches, brain fog, and poor sleep.
-Not even mentioning the lower than desired feminising effects. 
+Not even mentioning the lower than desired feminizing effects. 
 
 PATHA is exceptionally egregious here with the 1mg recommendation which is lower than WPATH, AusPATH and the Endocrine Society's recommendations for a minimal dose. 1mg single oral dose provides a peak at only ~35 pg/mL of serum estradiol[^1] which compared to [[MTF Target Ranges]] is far bellow a desired level.
 
