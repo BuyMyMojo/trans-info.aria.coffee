@@ -10,6 +10,8 @@ Some sources recommend a lower dose if you start taking the pills via sublingual
 
 I personally took 6mg a day sublingual, if you have access to blood tests then please keep aiming for your preferred target range (See [[MTF Target Ranges]]) and adjust as needed.
 
+There are two formulations of estrogen in pill form, estradiol valerate and estradiol hemihydrate, in practical terms however they are entirely interchangeable. Feel free to try out both formulations and compare your results with blood tests to see if as an individual you have a better result with one over the other, but this process isn't necessary by any means. 
+
 ## Notes:
 
 ### Underdosing
