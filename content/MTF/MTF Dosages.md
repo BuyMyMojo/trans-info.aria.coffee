@@ -2,7 +2,7 @@ Getting the correct dosage is important to get the results you want! Getting reg
 
 ## Pill dosage
 
-Generally doctors will prescribe lower than ideal dosages for HRT, especially pills. Make sure you advocate for what you want to get the levels you require. See [[MTF Dosages#Underdosing]] for more information on underdosing.
+Doctors tend to prescribed sub-optimal dosages for feminising HRT, especially for pills. It is crucial to remain informed ane enure that you  advocate for what a dosage which attains the levels you require. See [[MTF Dosages#Underdosing]] for more information on underdosing.
  
 Commonly for pills a 6mg daily dose is a good target, I've done 2mg pill 3 times a day (morning, lunch and dinner), others do 3mg twice a day.
 
@@ -10,7 +10,16 @@ Some sources recommend a lower dose if you start taking the pills via sublingual
 
 I personally took 6mg a day sublingual, if you have access to blood tests then please keep aiming for your preferred target range (See [[MTF Target Ranges]]) and adjust as needed.
 
-There are two formulations of estrogen in pill form, estradiol valerate and estradiol hemihydrate, in practical terms however they are entirely interchangeable. Feel free to try out both formulations and compare your results with blood tests to see if as an individual you have a better result with one over the other, but this process isn't necessary by any means. 
+There are two formulations of estrogen in pill form, estradiol valerate (Progynova) and estradiol hemihydrate (Zumenon), in practical terms however they are entirely interchangeable. Feel free to try out both formulations and compare your results with blood tests to see if as an individual you have a better result with one over the other, but this process isn't necessary by any means. 
+
+## Gel dosage
+
+Gel-based Estradiol comes in 3 main modalities: (1) in a pump bottle, where each pump delivers a single dose, (2) individually dosed sachets or (3) a tube you manually dose with. Of the three, manual dosing is the hardest to accurately dose, and should be avoied where possible. Pump based estradiol gel is generally the most economical, and also the most commonly prescribed.
+
+The recommended dosing for transdermal Estradiol gel is 4-6mg daily, which raises E2 levels above target for most individuals. While it is theoretically possible to perform monotherapy with gels, it is highly recommended to NOT do that as it is much easier to miss your application window and allow T levels to start rising again as the half life of gels is quite short. Additionally, serum E2 levels through transdermal Estradiol are highly variable among individuals based off multiple factors affecting transdermal absorption, namely site of administration, 
+thickness of applied gel, other skin pathology. 
+
+Addition considerations for individuals considering gel-based HRT include (1) ability to cope with sensation (2) applying 1-2 doses daily etc...
 
 ## Notes:
 
