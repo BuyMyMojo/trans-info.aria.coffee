@@ -2,7 +2,7 @@ Getting the correct dosage is important to get the results you want! Getting reg
 
 ## Pill dosage
 
-Generally doctors will prescribe lower than ideal dosages for HRT, especially pills. Make sure you advocate for what you want to get the levels you require. See [[MTF Dosages#Underdosing]] for more information on under dosing.
+Generally doctors will prescribe lower than ideal dosages for HRT, especially pills. Make sure you advocate for what you want to get the levels you require. See [[MTF Dosages#Underdosing]] for more information on underdosing.
  
 Commonly for pills a 6mg daily dose is a good target, I've done 2mg pill 3 times a day (morning, lunch and dinner), others do 3mg twice a day.
 
