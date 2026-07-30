@@ -1,0 +1,49 @@
+when:
+  - event: ["push"]
+    branch: ["main"]
+
+engine: microvm
+image: nixos
+
+clone:
+  depth: 0
+
+dependencies:
+  - nodejs_22
+  - typst
+  - curl
+  - steam-run 
+
+environment:
+  WISP_HANDLE: "aria.pds.witchcraft.systems"
+  SITE_NAME: "the-trans-directory"
+
+steps:
+  - name: "Install Dependencies"
+    command: npm ci
+
+  - name: "Swap environment files"
+    command: |
+      mv .env .env.gh
+      mv .env.wisp .env
+
+  - name: "Build preview EUn paper"
+    command: typst compile -f pdf content/ASSETS/typst/EUn-Paper/main.typ content/ASSETS/PDFs/eun-paper-latest-preview.pdf
+
+  - name: "Build preview EUn paper data supplementary"
+    command: typst compile -f pdf content/ASSETS/typst/EUn-Paper-Data-Sup/manual.typ content/ASSETS/PDFs/eun-paper-data-latest-preview.pdf
+
+  - name: "Build Quartz"
+    command: npx quartz build
+
+  - name: "Download and Deploy to Wisp"
+    command: |
+      curl -L https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
+      chmod +x wisp-cli
+      
+      # We wrap the binary execution in steam-run to fix NixOS FHS compliance
+      steam-run ./wisp-cli deploy "$WISP_HANDLE" \
+        --path "./public" \
+        --site "$SITE_NAME" \
+        --password "$WISP_APP_PASSWORD" \
+        --spa
