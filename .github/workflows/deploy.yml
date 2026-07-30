@@ -38,39 +38,39 @@ jobs:
         with:
           path: public
 
-  # build-and-deploy-to-wisp:
-  #   runs-on: ubuntu-22.04
-  #   steps:
-  #     - uses: actions/checkout@v4
-  #       with:
-  #         fetch-depth: 0
-  #     - uses: actions/setup-node@v4
-  #       with:
-  #         node-version: 22
-  #     - name: Install Dependencies
-  #       run: npm ci
-  #     - run: |
-  #         mv .env .env.gh
-  #     - run: |
-  #         mv .env.wisp .env
-  #     - uses: typst-community/setup-typst@v4
-  #     - name: Build preview EUn paper
-  #       run: typst compile -f pdf content/ASSETS/typst/EUn-Paper/main.typ content/ASSETS/PDFs/eun-paper-latest-preview.pdf
-  #     - name: Build preview EUn paper data supplementary
-  #       run: typst compile -f pdf content/ASSETS/typst/EUn-Paper-Data-Sup/manual.typ content/ASSETS/PDFs/eun-paper-data-latest-preview.pdf
-  #     - name: Build Quartz
-  #       run: npx quartz build
-  #     - run: |
-  #         curl https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
-  #     - run: |
-  #         chmod +x wisp-cli
-  #     - name: deploy to wisp
-  #       run: |
-  #         ./wisp-cli deploy "${{ vars.WISP_HANDLE }}" \
-  #           --path "./public" \
-  #           --site "${{ vars.SITE_NAME }}" \
-  #           --password "${{ secrets.WISP_APP_PASSWORD }}" \
-  #           --spa
+  build-and-deploy-to-wisp:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install Dependencies
+        run: npm ci
+      - run: |
+          mv .env .env.gh
+      - run: |
+          mv .env.wisp .env
+      - uses: typst-community/setup-typst@v4
+      - name: Build preview EUn paper
+        run: typst compile -f pdf content/ASSETS/typst/EUn-Paper/main.typ content/ASSETS/PDFs/eun-paper-latest-preview.pdf
+      - name: Build preview EUn paper data supplementary
+        run: typst compile -f pdf content/ASSETS/typst/EUn-Paper-Data-Sup/manual.typ content/ASSETS/PDFs/eun-paper-data-latest-preview.pdf
+      - name: Build Quartz
+        run: npx quartz build
+      - run: |
+          curl https://sites.wisp.place/nekomimi.pet/wisp-cli-binaries/wisp-cli-x86_64-linux -o wisp-cli
+      - run: |
+          chmod +x wisp-cli
+      - name: deploy to wisp
+        run: |
+          ./wisp-cli deploy "${{ vars.WISP_HANDLE }}" \
+            --path "./public" \
+            --site "${{ vars.SITE_NAME }}" \
+            --password "${{ secrets.WISP_APP_PASSWORD }}" \
+            --spa
 
   deploy:
     needs: build
