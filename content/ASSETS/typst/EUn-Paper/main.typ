@@ -367,9 +367,10 @@ in @all-e2-levels we look at my #gls("e2") levels(pmol per litre) over the entir
         datetime(year: 2026, month: 5, day: 01),
         datetime(year: 2026, month: 5, day: 29),
         datetime(year: 2026, month: 6, day: 02),
+        datetime(year: 2026, month: 7, day: 07),
 
       ),
-      (1189, 906, 496, 452, 778, 1055, 667, 625, 1630),
+      (1189, 906, 496, 452, 778, 1055, 667, 625, 1630, 677),
       smooth: false,
       mark: "s",
       label: [E2],
@@ -407,9 +408,10 @@ in @all-e2-levels we look at my #gls("e2") levels(pmol per litre) over the entir
         datetime(year: 2026, month: 5, day: 01),
         datetime(year: 2026, month: 5, day: 29),
         datetime(year: 2026, month: 6, day: 02),
+        datetime(year: 2026, month: 7, day: 07),
 
       ),
-      (1189, 906, 496, 452, 778, 1055, 667, 625, 1630),
+      (1189, 906, 496, 452, 778, 1055, 667, 625, 1630, 677),
       smooth: false,
       mark: "s",
       label: [Control],
@@ -423,10 +425,11 @@ in @all-e2-levels we look at my #gls("e2") levels(pmol per litre) over the entir
         datetime(year: 2026, month: 3, day: 16),
         datetime(year: 2026, month: 4, day: 07),
         datetime(year: 2026, month: 5, day: 01),
-        datetime(year: 2026, month: 6, day: 02),
         datetime(year: 2026, month: 5, day: 29),
+        datetime(year: 2026, month: 6, day: 02),
+        datetime(year: 2026, month: 7, day: 07),
       ),
-      (1150, 550, 312, 129, 163, 282, 416, 509, 513),
+      (1150, 550, 312, 129, 163, 282, 416, 509, 513, 581),
       smooth: false,
       mark: "s",
       label: [Estrannai],
@@ -451,8 +454,8 @@ After my levels stabilized I started taking my blood tests at varying different 
     lq.scatter(
       // data by injection date:
       // (2026-03-06, 2026-04-03)
-      (10, 4, 28, 28, 4),
-      (778, 1055, 667, 625, 1630),
+      (10, 4, 28, 28, 4, 11),
+      (778, 1055, 667, 625, 1630, 677),
       size: auto,
       color: auto,
       label: [E2],
