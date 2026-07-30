@@ -51,7 +51,7 @@
 #show: paper.with(
   font: "TX-02", // core body font family
   fontsize: 12pt, // core body font size
-  maketitle: true, // true → dedicate a cover page; false → inline title
+  maketitle: true, // true -> dedicate a cover page; false -> inline title
   title: [Use of Estradiol Undecylate for MTF HRT: Research and Experimentation], // document title
   subtitle: "The independent research of a crazy woman", // optional subtitle line
 

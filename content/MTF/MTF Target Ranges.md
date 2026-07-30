@@ -4,7 +4,7 @@ In the process of writing my own research paper (Still WIP!) I got a few common 
 [AusPATH](https://auspath.org.au/wp-content/uploads/2025/12/Standards-of-Care-Digital-NOV-17.pdf), the Australian guidelines recommend maintaining estradiol concerntrations above 250 pmol/L, in accordance with Cheung et al. 
 
 ## The Medical Journal of Australia
-[Ada S Cheung](https://onlinelibrary.wiley.com/authored-by/Cheung/Ada+S) in [DOI 10.5694/mja2.50259](https://doi.org/10.5694/mja2.50259) recommend targeting estradiol levels of 250–600 pmol/L and total testosterone levels < 2 nmol/L
+[Ada S Cheung](https://onlinelibrary.wiley.com/authored-by/Cheung/Ada+S) in [DOI 10.5694/mja2.50259](https://doi.org/10.5694/mja2.50259) recommend targeting estradiol levels of 250-600 pmol/L and total testosterone levels < 2 nmol/L
 
 ## WPATH Standards of Care Version 8
 
@@ -12,7 +12,7 @@ The [SOC8](https://www.tandfonline.com/doi/pdf/10.1080/26895269.2022.2100644) st
 
 ## Journal of Clinical Endocrinology & Metabolism
 
-Serum estradiol should not exceed the peak physiologic range: 100–200 pg/mL.
+Serum estradiol should not exceed the peak physiologic range: 100-200 pg/mL.
 
 ## Conclusion
 
