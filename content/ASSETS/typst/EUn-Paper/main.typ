@@ -55,7 +55,7 @@
   title: [Use of Estradiol Undecylate for MTF HRT: Research and Experimentation], // document title
   subtitle: "The independent research of a crazy woman", // optional subtitle line
 
-  // Cover-page–only spacing and typography (ignored when maketitle=false)
+  // Cover-page-only spacing and typography (ignored when maketitle=false)
   cover-text-width: 90%, // width of the abstract/keywords block
   cover-line-leading: 1.32em, // line height for cover/front matter paragraphs
   cover-paragraph-spacing: 0.7em, // paragraph spacing on the cover/front matter
@@ -125,7 +125,7 @@ In this paper I will mention a "target range" in a few places, depending on what
 
 === Cheung et al:
 #quote(attribution: [@position-statement-hormonal-management])[
-  "We recommend targeting estradiol levels of 250–600 pmol/L and total testosterone levels < 2 nmol/L"
+  "We recommend targeting estradiol levels of 250-600 pmol/L and total testosterone levels < 2 nmol/L"
 ]
 
 === WPATH Standards of Care, Version 8
@@ -139,7 +139,7 @@ In this paper I will mention a "target range" in a few places, depending on what
 === Journal of Clinical Endocrinology & Metabolism
 
 #quote(attribution: [@endocrine-treatment-of-fender-dysphoric-and-gender-incongruent-persons])[
-  "Serum estradiol should not exceed the peak physiologic range: 100–200 pg/mL."
+  "Serum estradiol should not exceed the peak physiologic range: 100-200 pg/mL."
 ]
 
 == Decision
