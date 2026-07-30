@@ -322,7 +322,7 @@ In simulations from Estrannai my trough level was estimated to be 125pmol/L by t
 
 #todo(position: "inline")["add some info on global T levels somewhere"]
 
-From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("e2") levels to the recommended range#footnote([Simulation of #gls("e2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5-32,30,5_cu,32,30,5")]).
+From this point forward I moved to 32mg injection cycle as shown in @dosing-examples. This generally should bring my #gls("e2") levels to the recommended range#footnote([Simulation of #gls("e2") levels after sapping from the 16mg injection to continuous 32mg injections: #link("https://estrannai.se/#it1_cu,5,0,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-5,7,2-16,7,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5-32,28,5_cu,32,28,5")]).
 
 == Overall levels
 
@@ -418,18 +418,18 @@ in @all-e2-levels we look at my #gls("e2") levels(pmol per litre) over the entir
     ),
     lq.plot(
       (
-        datetime(year: 2026, month: 2, day: 06),
-        datetime(year: 2026, month: 2, day: 13),
-        datetime(year: 2026, month: 2, day: 20),
-        datetime(year: 2026, month: 3, day: 06),
-        datetime(year: 2026, month: 3, day: 16),
-        datetime(year: 2026, month: 4, day: 07),
-        datetime(year: 2026, month: 5, day: 01),
-        datetime(year: 2026, month: 5, day: 29),
-        datetime(year: 2026, month: 6, day: 02),
-        datetime(year: 2026, month: 7, day: 07),
+        datetime(year: 2026, month: 2, day: 06), // day 63
+        datetime(year: 2026, month: 2, day: 13), // day 70
+        datetime(year: 2026, month: 2, day: 20), // day 77
+        datetime(year: 2026, month: 3, day: 06), // day 91
+        datetime(year: 2026, month: 3, day: 16), // day 101
+        datetime(year: 2026, month: 4, day: 07), // day 113
+        datetime(year: 2026, month: 5, day: 01), // day 137
+        datetime(year: 2026, month: 5, day: 29), // day 165
+        datetime(year: 2026, month: 6, day: 02), // day 169
+        datetime(year: 2026, month: 7, day: 07), // day 204
       ),
-      (1150, 550, 312, 129, 163, 282, 416, 509, 513, 581),
+      (1178, 600, 312, 136, 171, 244, 389, 512, 523, 586),
       smooth: false,
       mark: "s",
       label: [Estrannai],
@@ -438,7 +438,7 @@ in @all-e2-levels we look at my #gls("e2") levels(pmol per litre) over the entir
   caption: [Overview of all #gls("e2") levels during this research compared to current estimated from Estrannai],
 )<all-e2-levels-compared-to-sim>
 
-
+The biggest thing I want to note about @all-e2-levels-compared-to-sim is that while the graph is comparing comparing data points from two sources it isn't accoutning for the levels between days measured. This causes the graph to be sparse and cannot assume the data between each point of comparison.
 
 == Average monthly cycle
 
