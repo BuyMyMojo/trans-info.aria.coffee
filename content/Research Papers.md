@@ -3,8 +3,8 @@
 Here are a few research papers relevant to transgender people, sorted by publication date
 
 - [Effect of gender affirming hormone therapy on bone mineral density and bone marrow composition in transgender adults](https://doi.org/10.1007/s12020-025-04499-y)
-	- 18 November 2025
-	![[Effect of gender affirming hormone therapy on bone mineral density and bone marrow composition in transgender adults.pdf]]
+  - 18 November 2025
+ ![[Effect of gender affirming hormone therapy on bone mineral density and bone marrow composition in transgender adults.pdf]]
 - [Easing the burden: exploring the role of long-acting testosterone formulations in gender-affirming care](https://doi.org/10.3389/fpubh.2026.1751013)
   - Febuary 11, 2026
   - [fulltext](https://www.readcube.com/articles/10.3389/fpubh.2026.1751013)
@@ -31,9 +31,9 @@ on the Impact of Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/41574250
   - [fulltext](https://sci-net.xyz/10.1089/trgh.2024.0115)
   ![[I-Don-t-Know-if-I-Would-ve-Made-It-Through-High-School-Without-It-Transgender-Adolescents.pdf]]
 - [Comparison of Estrone/Estradiol Ratio and Levels in Transfeminine Individuals on Different Routes of Estradiol](https://journals.sagepub.com/doi/full/10.1089/trgh.2023.0138)
-	- June 5, 2025
-	- [fulltext](https://journals.sagepub.com/doi/full/10.1089/trgh.2023.0138)
-	![[kariyawasam-et-al-2025-comparison-of-estrone-estradiol-ratio-and-levels-in-transfeminine-individuals-on-different.pdf]]
+  - June 5, 2025
+  - [fulltext](https://journals.sagepub.com/doi/full/10.1089/trgh.2023.0138)
+ ![[kariyawasam-et-al-2025-comparison-of-estrone-estradiol-ratio-and-levels-in-transfeminine-individuals-on-different.pdf]]
 - [No increased risk of gynaecological cancer with testosterone use in the first years](https://www.amsterdamumc.org/en/spotlight/no-increased-risk-of-gynaecological-cancer-with-testosterone-use-in-the-first-years.htm)
   - May 12, 2025
   - [fulltext](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00180-4/fulltext)
@@ -55,7 +55,7 @@ on the Impact of Gender-Affirming Care](https://pubmed.ncbi.nlm.nih.gov/41574250
 - [The efficacy, safety, and outcomes of testosterone use among transgender men patients: A review of the literature](https://pubmed.ncbi.nlm.nih.gov/36403286/)
   - November 20, 2022
   - [fulltext](https://onlinelibrary.wiley.com/doi/10.1002/nau.25094)
-- [Testicular Cancer in Trans People Using Feminising Hormone Therapy– A Brief Review](https://pubmed.ncbi.nlm.nih.gov/34826522/)
+- [Testicular Cancer in Trans People Using Feminising Hormone Therapy- A Brief Review](https://pubmed.ncbi.nlm.nih.gov/34826522/)
   - September 23, 2021
   - [fulltext](https://sci-net.xyz/10.1016/j.urology.2021.11.014)
   - [backup fulltext](https://web.archive.org/web/20260205034635/https://sci-net.xyz/10.1016/j.urology.2021.11.014)
