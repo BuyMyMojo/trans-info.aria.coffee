@@ -7,17 +7,17 @@ details can change FAST, if any of this is out of date please reach out! [transi
 Australia uses an **informed consent model**, your doctor explains the effects and risks, and you decide to start. any GP can assess and prescribe testosterone, no psychiatrist letter, no mandatory therapy, no "real-life experience" requirement.[^1][^2]
 
 - **The PBS step:** for subsidized testosterone on the Pharmaceutical Benefits Scheme, a specialist (an endocrinologist, hormone specialist, sexual health physician, or urologist) must be involved **once** and a telehealth call, email exchange, or even a booked future appointment can satisfy it. After that, your GP prescribes and monitors ongoingly.[^1]
-- **Cost:** about **A$7.70/month with a Health Care Card to A$25/month which is the maximum cost of PBS medicines for Medicare card holders** per script fill for medications on PBS.[^3] Primoteston (testosterone enanthate injection) is *not* PBS-listed, it's available on a private prescription from any GP at full price.[^1]
+- **Cost:** about **A\$7.70/month with a Health Care Card to A\$25/month which is the maximum cost of PBS medicines for Medicare card holders** per script fill for medications on PBS.[^3] Primoteston (testosterone enanthate injection) is *not* PBS-listed, it's available on a private prescription from any GP at full price.[^1]
 - **No gender-marker requirement:** you don't need to be registered as male with Medicare to get PBS testosterone.[^1]
 - **Public gender clinics** exist in some states (e.g., Monash Health in Victoria, Royal Brisbane & Women's Hospital in Queensland; no appointment fees) but have waiting lists; availability and state protocols vary.[^2][^3]
 - AusPATH (the Australian Professional Association for Trans Health) publishes the national guidance clinicians work from; see [[Standards of Care]].
 
 ## United States
 
-- **Informed consent clinics** are the backbone: Planned Parenthood (one of the largest gender-affirming hormone therapy providers nationally) requires no therapist letter, criteria are capacity to consent, 18+, persistent dysphoria, and reasonably controlled co-occurring conditions. Many people get a prescription at the first visit or right after baseline labs.[^4] Example self-pay pricing: ~$120-150 per visit plus labs and medication.[^4]
-- **Telehealth:** services like Plume (~$99/month membership, labs included, medication extra) and FOLX (~$40/month + per-visit fees) prescribe in most states though testosterone's controlled status blocks it in some.[^5]
+- **Informed consent clinics** are the backbone: Planned Parenthood (one of the largest gender-affirming hormone therapy providers nationally) requires no therapist letter, criteria are capacity to consent, 18+, persistent dysphoria, and reasonably controlled co-occurring conditions. Many people get a prescription at the first visit or right after baseline labs.[^4] Example self-pay pricing: ~\$120-150 per visit plus labs and medication.[^4]
+- **Telehealth:** services like Plume (~\$99/month membership, labs included, medication extra) and FOLX (~\$40/month + per-visit fees) prescribe in most states though testosterone's controlled status blocks it in some.[^5]
 - **Legal status:** testosterone is a **Schedule III controlled substance** (a legally restricted drug) so a prescriber registered with the DEA (the US drug enforcement agency) is required, prescriptions are tracked in state monitoring programs, max 5 refills in 6 months, ~30-day fills in most states.[^6]
-- **Medication costs:** with insurance, median out-of-pocket for testosterone cypionate was ~$10.71/month (2019 data); cash prices via discount cards start under $10/vial for injections, while gels run far higher retail ($220-460/month, ~$50 with discounts).[^9]
+- **Medication costs:** with insurance, median out-of-pocket for testosterone cypionate was ~\$10.71/month (2019 data); cash prices via discount cards start under \$10/vial for injections, while gels run far higher retail (\$220-460/month, ~\$50 with discounts).[^9]
 - The 2025-26 federal policy environment is volatile (funding pressure on clinics, state-level restrictions). Availability can shift quickly, make sure to check current state law and report back to me on any federal level changes if you can!
 
 ## United Kingdom

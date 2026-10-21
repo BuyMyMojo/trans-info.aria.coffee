@@ -68,7 +68,7 @@ Modern oral undecanoate (Jatenzo, Tlando, Kyzatrex in the US; the older Andriol 
 
 ## Australia notes
 
-Australian practice (reflected in Melbourne/Sydney studies) leans on **testosterone enanthate** (Primoteston) and **testosterone undecanoate** (Reandron 1000), with gels (e.g., Testogel) also common, especially for low-dose regimens. Most testosterone products are PBS-subsidised, so roughly A$7 with a concession card to ~A$40/month, after a one-time specialist involvement; note Primoteston itself is **not** PBS-listed and is prescribed privately.[^12][^13] See [[FTM Access]] for the full pathway.
+Australian practice (reflected in Melbourne/Sydney studies) leans on **testosterone enanthate** (Primoteston) and **testosterone undecanoate** (Reandron 1000), with gels (e.g., Testogel) also common, especially for low-dose regimens. Most testosterone products are PBS-subsidised, so roughly A\$7 with a concession card to ~A\$40/month, after a one-time specialist involvement; note Primoteston itself is **not** PBS-listed and is prescribed privately.[^12][^13] See [[FTM Access]] for the full pathway.
 
 ## Deciding on route
 
