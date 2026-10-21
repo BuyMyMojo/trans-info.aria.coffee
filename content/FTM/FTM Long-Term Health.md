@@ -20,7 +20,7 @@ Recommendations:[^1][^2]
 
 - **Top surgery (chest masculinization):** no hormone requirement. no set time on T, or any T at all (some surgeons suggest waiting 6-12 months so chest contours settle whic is a timing preference and not a cessation).
 - **Hysterectomy (surgery to remove the uterus) and oophorectomy:** SOC8 suggests ≥6 months on T first (unless not indicated/desired), plus fertility counseling beforehand and a hormone-replacement plan if you're not on T. Some insurers/surgeons still apply older 12-month criteria.
-- **Metoidioplasty and phalloplasty (surgeries to create a penis):** stable regimen with ≥6 months minimum and because results depend on clitoral growth (maximal at 1-2 years), the common surgical convention is **~1 year on T** before metoidioplasty.[^1][^13]
+- **Metoidioplasty and phalloplasty (surgeries to create a penis):** stable regimen with ≥6 months minimum and because results depend on clitoral growth (maximal at 1-2 years), the common surgical convention is **\~1 year on T** before metoidioplasty.[^1][^13]
 - Lifelong urological (urinary-tract) follow-up is encouraged after genital surgery.[^1]
 
 ## Cancer screening
@@ -30,22 +30,22 @@ ACOG's principle: "any anatomical structure present that warrants screening shou
 **Chest/breast**:
 
 - **No top surgery (or reduction only):** screen per guidelines for cisgender women (mammography by local age schedule).[^15]
-- **After top surgery:** **no evidence-based screening protocol exists.** Residual tissue means risk isn't zero, but it's unquantified; mammography may not be technically feasible; annual chest-wall exams are "not based on evidence."[^15][^1] Breast cancer in trans men on T is rare (Dutch nationwide cohort: 4 cases in 1,229 trans men; ~1/5 the cis-women rate).[^16] Take a family history, report new lumps promptly, and make an individual plan. An MRI or ultrasound may make sense for higher-risk people (e.g., BRCA, a gene that raises breast-cancer risk).[^1] [UCSF's breast-screening page for trans men](https://transcare.ucsf.edu/guidelines/breast-cancer-men) is the best plain-language walkthrough. See [[FTM Evidence Gaps]].
+- **After top surgery:** **no evidence-based screening protocol exists.** Residual tissue means risk isn't zero, but it's unquantified; mammography may not be technically feasible; annual chest-wall exams are "not based on evidence."[^15][^1] Breast cancer in trans men on T is rare (Dutch nationwide cohort: 4 cases in 1,229 trans men; \~1/5 the cis-women rate).[^16] Take a family history, report new lumps promptly, and make an individual plan. An MRI or ultrasound may make sense for higher-risk people (e.g., BRCA, a gene that raises breast-cancer risk).[^1] [UCSF's breast-screening page for trans men](https://transcare.ucsf.edu/guidelines/breast-cancer-men) is the best plain-language walkthrough. See [[FTM Evidence Gaps]].
 
 **Cervical**:
 
 - While you have a cervix, screen per cis-women guidelines.[^17]
-- Pap tests (cervical screening swabs) on T have a **~10× higher unsatisfactory-result rate** (correlates with time on T, due to atrophic changes the tissue gets thinner and drier) so a "failed" Pap is common and should not be a concern. self-collected HPV swabs (HPV = human papillomavirus, the virus behind most cervical cancers) can be a more comfortable alternative.[^17][^1]
+- Pap tests (cervical screening swabs) on T have a **\~10× higher unsatisfactory-result rate** (correlates with time on T, due to atrophic changes the tissue gets thinner and drier) so a "failed" Pap is common and should not be a concern. self-collected HPV swabs (HPV = human papillomavirus, the virus behind most cervical cancers) can be a more comfortable alternative.[^17][^1]
 - HPV vaccination (ages 9-26) meaningfully reduces risk.[^17] [UCSF's cervical-screening page](https://transcare.ucsf.edu/guidelines/cervical-cancer) has tips for making screening more comfortable.
 
 **Uterus/ovaries**:
 
 - **No routine endometrial (womb-lining) or ovarian screening, and no prophylactic (preventive) organ removal.** SOC8 Statement 15.9: "We recommend against routine oophorectomy or hysterectomy solely for the purpose of preventing ovarian or uterine cancer for transgender and gender diverse people undergoing testosterone treatment and who have an otherwise average risk of malignancy."[^1]
-- **The endometrium conflict:** the traditional narrative is that T atrophies (thins) the endometrium (the womb lining) but the largest histology series (studies of the actual tissue) (Grimstad 2019, n=94) found **69% had active/proliferative (still-growing) endometrium**, 1 hyperplasia (overgrowth) without atypia (abnormal cells), and **zero cancers**.[^18] Only ~5 endometrial-cancer case reports in trans men exist.[^19] Risk appears no higher than baseline, but unexplained bleeding after amenorrhea (no periods) always warrants evaluation (especially over 35) see [[FTM Periods and Fertility]].[^7]
+- **The endometrium conflict:** the traditional narrative is that T atrophies (thins) the endometrium (the womb lining) but the largest histology series (studies of the actual tissue) (Grimstad 2019, n=94) found **69% had active/proliferative (still-growing) endometrium**, 1 hyperplasia (overgrowth) without atypia (abnormal cells), and **zero cancers**.[^18] Only \~5 endometrial-cancer case reports in trans men exist.[^19] Risk appears no higher than baseline, but unexplained bleeding after amenorrhea (no periods) always warrants evaluation (especially over 35) see [[FTM Periods and Fertility]].[^7]
 
 ## The long-term vitals checklist
 
-- **Total T + hematocrit/hemoglobin (red-blood-cell measures):** ~every 3-6 months in year 1, then 1-2×/year once stable (see [[FTM Blood Testing]]).[^20]
+- **Total T + hematocrit/hemoglobin (red-blood-cell measures):** \~every 3-6 months in year 1, then 1-2×/year once stable (see [[FTM Blood Testing]]).[^20]
 - **BP (blood pressure), weight, lipids (blood fats like cholesterol), glucose (blood sugar):** per standard population screening. no extra T-specific schedule is evidence-based.[^21]
 - **Standard age-appropriate screening** (colorectal etc.) per anatomy; HIV/STI screening and HPV/Hep A/B vaccination as indicated.[^7]
 - Mortality data: in the Amsterdam 5-decade cohort, trans-men mortality wasn't elevated vs cis men (SMR 1.2, "not statistically significant," meaning the small difference could be chance); the small excess vs cis women was driven by non-natural causes and not by hormone effects.[^22]

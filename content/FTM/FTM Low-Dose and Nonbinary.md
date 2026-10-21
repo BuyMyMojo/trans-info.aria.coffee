@@ -8,7 +8,7 @@ WPATH SOC8 Chapter 8 (Nonbinary) is explicit: clinicians should "provide nonbina
 
 There's no agreed definition of "microdosing" as it's a community term, not a clinical one.[^2] In practice, low-dose regimens look like UCSF's "Initial - low dose" tier in its [masculinizing therapy guideline](https://transcare.ucsf.edu/guidelines/masculinizing-therapy), which the guideline itself describes as "recommended for genderqueer and nonbinary dosing":[^3]
 
-- **Injections:** ~20 mg/week testosterone cypionate or enanthate (the two common injectable forms of T) (vs 50-100 mg/week standard)
+- **Injections:** \~20 mg/week testosterone cypionate or enanthate (the two common injectable forms of T) (vs 50-100 mg/week standard)
 - **Gel:** 12.5-25 mg/day (vs 50-100 mg/day standard)
 
 Some people deliberately maintain testosterone levels in an *intermediate* range between typical female and male ranges.[^3] The usual strategy is "start low, titrate slowly to effect". titrating just means adjusting the dose gradually, guided by your goals, your levels, and how your body responds.[^3]
@@ -17,7 +17,7 @@ Some people deliberately maintain testosterone levels in an *intermediate* range
 
 Be skeptical of anyone who claims certainty here, in either direction:
 
-- The only cohort study (a study following a group of people over time) of low-dose T in nonbinary people (Nolan et al., ENDO 2024, n=46 using transdermal T, meaning gel or patches, median level ~11 nmol/L) found 87% were still on low-dose at ~14 months, 13% escalated to full dose, and 3 people (7%) developed polycythemia (too many red blood cells). **Physical outcomes were not measured at all** so we don't actually know how much slower or lesser changes were.[^4]
+- The only cohort study (a study following a group of people over time) of low-dose T in nonbinary people (Nolan et al., ENDO 2024, n=46 using transdermal T, meaning gel or patches, median level \~11 nmol/L) found 87% were still on low-dose at \~14 months, 13% escalated to full dose, and 3 people (7%) developed polycythemia (too many red blood cells). **Physical outcomes were not measured at all** so we don't actually know how much slower or lesser changes were.[^4]
 - **No randomized trial of low-dose testosterone has ever been completed.** A randomized trial (RCT) is the gold-standard study type, where people are randomly assigned a regimen. The first one (measuring dysphoria, euphoria, and mental health) is still recruiting at [Austin Health, Melbourne](https://www.transresearch.org.au/participate/lowdose).[^5] A small retrospective audit (looking back at clinic records) (Ward-Smith 2026) and one youth review round out the literature; an NHS England evidence review found zero eligible studies for nonbinary partial masculinization in under-18s.[^6]
 - Everything else is expert extrapolation (careful guesswork) from binary-transition and cis-puberty data. Even the 2024 expert review by Dimakopoulou & Seal states plainly that regimens "have not been examined by randomised controlled clinical trials."[^7]
 
@@ -25,7 +25,7 @@ Be skeptical of anyone who claims certainty here, in either direction:
 
 **It slows changes down.** That's the one consistent expectation. the same menu of effects, arriving more gradually (and possibly to a lesser final degree but "slower vs lesser" is unresolved until trials report).[^4][^7]
 
-**It does NOT reliably spare your voice.** This is the most important myth to kill. The larynx responds at *moderate* testosterone levels, avoiding voice change would require keeping levels very low, **below ~7 nmol/L**, which is barely above typical pre-T levels.[^7] Voice F0 (pitch) drops don't track serum (blood) androgen levels, and community reports confirm even microdoses can permanently deepen the voice.[^8] If preserving your voice is a priority, the strategies experts discuss are *limiting duration* (stopping before the voice "breaks," usually 6-12 months in) or simply not taking T not low doses.[^7] See [[Voice Training]] for non-hormonal options.
+**It does NOT reliably spare your voice.** This is the most important myth to kill. The larynx responds at *moderate* testosterone levels, avoiding voice change would require keeping levels very low, **below \~7 nmol/L**, which is barely above typical pre-T levels.[^7] Voice F0 (pitch) drops don't track serum (blood) androgen levels, and community reports confirm even microdoses can permanently deepen the voice.[^8] If preserving your voice is a priority, the strategies experts discuss are *limiting duration* (stopping before the voice "breaks," usually 6-12 months in) or simply not taking T not low doses.[^7] See [[Voice Training]] for non-hormonal options.
 
 **It usually won't stop your periods.** Lower doses frequently don't suppress menstruation so if stopping bleeding is a goal, you'll likely need an add-on (see below).[^7][^9]
 

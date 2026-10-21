@@ -7,7 +7,7 @@ The usual schedule looks like this:
 | When                           | What gets checked                                                                                                               |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
 | **Baseline (before starting)** | Testosterone, hematocrit/hemoglobin; often lipids, LFTs, glucose/A1c, and (in AusPATH/NHS protocols) LH, FSH, estradiol[^1][^2] |
-| **Year 1**                     | Every ~3 months **and with any dose change**: testosterone + hematocrit (Endocrine Society / SOC8)[^1][^3]                      |
+| **Year 1**                     | Every \~3 months **and with any dose change**: testosterone + hematocrit (Endocrine Society / SOC8)[^1][^3]                      |
 | **Once stable**                | 1-2×/year: testosterone + hematocrit[^1][^3]                                                                                    |
 | **Ongoing**                    | Blood pressure, weight at visits; cancer screening by anatomy (see [[FTM Long-Term Health]]); bone density per risk             |
 
@@ -36,22 +36,22 @@ Three different answers exist to "when do we act?", and none has been validated 
 - **>=54%** - the common *action* threshold (reduce dose, consider therapeutic phlebotomy/venesection - removing some blood, like a donation), imported from cisgender-male testosterone-therapy guidance (MSD Manual; European Association of Urology).[^7] Some institutional protocols operationalize it: 50-54% -> hydrate and recheck in 1-3 months; >54% -> phlebotomy plus dose/route change.[^8]
 - **No number** - SOC8 says only that the rise should stay "consistent with reference ranges in cisgender males."[^3]
 
-How common is it really? Across large cohorts, **~11-20% of people on T exceed 50%** at some point, but only **~0.5% exceed 54%**, severe erythrocytosis is rare.[^5][^9] Causality to clots is also weaker than often assumed: the link is "correlational rather than causal," and the erythrocytosis effect washed out when smoking, blood pressure, and obesity were accounted for.[^5] Risk is higher with injectables than gel (see [[FTM forms of HRT]]), higher doses/peaks, smoking, untreated sleep apnea, and higher BMI.
+How common is it really? Across large cohorts, **\~11-20% of people on T exceed 50%** at some point, but only **\~0.5% exceed 54%**, severe erythrocytosis is rare.[^5][^9] Causality to clots is also weaker than often assumed: the link is "correlational rather than causal," and the erythrocytosis effect washed out when smoking, blood pressure, and obesity were accounted for.[^5] Risk is higher with injectables than gel (see [[FTM forms of HRT]]), higher doses/peaks, smoking, untreated sleep apnea, and higher BMI.
 
 If a result comes back high, the standard clinical goto is: confirm it (hydration affects this), check T levels *including a peak*, adjust dose/interval, consider switching to more frequent injections or transdermal, use phlebotomy/blood donation as a short-term bridge, and rule out other causes (sleep apnea, tobacco).[^2]
 
 > [!danger] Red flags - don't wait for your next scheduled draw
 > **Possible thickened blood (book a prompt review + a CBC, a full blood count):** persistent or worsening headaches, dizziness or ringing in the ears, blurred vision, facial flushing/ruddy complexion, itching especially after warm showers, burning/tingling in hands or feet, unusual fatigue or breathlessness, nosebleeds or easy bruising.[^10]
 > **Emergency now:** chest pain or pressure; sudden shortness of breath; one-sided leg swelling/pain (possible clot in the leg); coughing blood (possible clot in the lung); face droop, arm weakness, or speech difficulty (stroke).
-> **Prompt, non-emergency:** any **vaginal bleeding after sustained amenorrhea (a long stretch with no periods)** not explained by a missed or reduced dose, guidelines are clear this warrants evaluation (see [[FTM Periods and Fertility]]); periods persisting past ~6 months; hot flashes or regressing virilization (masculine changes sliding backwards, signs of possible underdosing); spreading redness, heat, pus, or fever at an injection site.[^2][^6]
+> **Prompt, non-emergency:** any **vaginal bleeding after sustained amenorrhea (a long stretch with no periods)** not explained by a missed or reduced dose, guidelines are clear this warrants evaluation (see [[FTM Periods and Fertility]]); periods persisting past \~6 months; hot flashes or regressing virilization (masculine changes sliding backwards, signs of possible underdosing); spreading redness, heat, pus, or fever at an injection site.[^2][^6]
 
 ## LH, FSH, and the post-gonadectomy trick
 
-LH and FSH (the two hormone signals your brain sends to the ovaries) are **partially suppressed on T, not abolished** (e.g., LH ~4-5 IU/L in cohorts on T), and no guideline uses them routinely.[^11]
+LH and FSH (the two hormone signals your brain sends to the ovaries) are **partially suppressed on T, not abolished** (e.g., LH \~4-5 IU/L in cohorts on T), and no guideline uses them routinely.[^11]
 
 ## Estradiol and progesterone
 
-No guideline schedules routine E2 or P4 checks for people on T but there is measured data: on testosterone, **E2 falls or stays low** (~100-175 pmol/L across nine cohorts; it does not rise into female ranges), **P4 collapses to the floor** - yet ~1 in 3 amenorrheic people still show signs of recent ovulation, which is why T is not contraception. Immunoassay (standard lab-test) E2 results at male-range levels are unreliable (LC-MS/MS, a more precise mass-spectrometry method, is the accurate one). Checking E2 can matter in specific situations: breakthrough-bleeding workups, post-oophorectomy low-dose regimens, and baseline PCOS workups. The full evidence walk-through is at [[FTM Target Ranges#What about estrogen and progesterone?]].
+No guideline schedules routine E2 or P4 checks for people on T but there is measured data: on testosterone, **E2 falls or stays low** (\~100-175 pmol/L across nine cohorts; it does not rise into female ranges), **P4 collapses to the floor** - yet \~1 in 3 amenorrheic people still show signs of recent ovulation, which is why T is not contraception. Immunoassay (standard lab-test) E2 results at male-range levels are unreliable (LC-MS/MS, a more precise mass-spectrometry method, is the accurate one). Checking E2 can matter in specific situations: breakthrough-bleeding workups, post-oophorectomy low-dose regimens, and baseline PCOS workups. The full evidence walk-through is at [[FTM Target Ranges#What about estrogen and progesterone?]].
 
 ## How to read your own results
 

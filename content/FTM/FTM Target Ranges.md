@@ -4,12 +4,12 @@ What numbers is your clinician actually aiming at? This page lays out the testos
 
 **The overall goal is to be around the average cis male range.** Different guidelines express it differently:
 
-- **Endocrine Society 2017 / WPATH SOC8:** for enanthate/cypionate injections, measure **midway between injections**, target **400-700 ng/dL**. Alternatively, measure peak (the high point after a dose) and trough (the low point right before the next dose) to keep levels within the cisgender male reference range quoted as typically **320-1000 ng/dL (~11-35 nmol/L)**, though the exact band depends on the lab's test method. Sustained supraphysiologic (above the natural male range) levels should be avoided.[^1][^2]
+- **Endocrine Society 2017 / WPATH SOC8:** for enanthate/cypionate injections, measure **midway between injections**, target **400-700 ng/dL**. Alternatively, measure peak (the high point after a dose) and trough (the low point right before the next dose) to keep levels within the cisgender male reference range quoted as typically **320-1000 ng/dL (\~11-35 nmol/L)**, though the exact band depends on the lab's test method. Sustained supraphysiologic (above the natural male range) levels should be avoided.[^1][^2]
 - **UCSF:** target is simply **the lab's male reference range** (roughly 350-1100 ng/dL), titrated to goals and clinical response. Crucially: "Once within the normal male physiologic range, there is no evidence that higher doses/levels of testosterone result in a greater degree of virilization" and once you're above the midpoint of the range, pushing the dose higher has unclear benefit.[^3]
-- **NHS (UK)** works in nmol/L and targets differ by formulation and clinic: gels titrated to **mid adult cis male range, ~15-20 nmol/L** (Tavistock) or 14-19 nmol/L (Nottingham); Sustanon **trough** 8-14 nmol/L (Nottingham) or 10-12 nmol/L (Sussex); Nebido **trough** in the lower third of male range, **typically 10-15 nmol/L**.[^4]
+- **NHS (UK)** works in nmol/L and targets differ by formulation and clinic: gels titrated to **mid adult cis male range, \~15-20 nmol/L** (Tavistock) or 14-19 nmol/L (Nottingham); Sustanon **trough** 8-14 nmol/L (Nottingham) or 10-12 nmol/L (Sussex); Nebido **trough** in the lower third of male range, **typically 10-15 nmol/L**.[^4]
 - **AusPATH (Australia):** masculinizing target is a **trough total testosterone of 10-15 nmol/L**.[^5]
 
-These are roughly concordant (400-700 ng/dL ~ 14-24 nmol/L) but **not identical**. Note the tension at the low end: the Endocrine Society says adjust the undecanoate interval if the pre-injection trough is below 400 ng/dL (~14 nmol/L), while UK and Australian practice deliberately targets troughs of 10-15 nmol/L. Neither camp has trial evidence that its target produces better outcomes.
+These are roughly concordant (400-700 ng/dL \~ 14-24 nmol/L) but **not identical**. Note the tension at the low end: the Endocrine Society says adjust the undecanoate interval if the pre-injection trough is below 400 ng/dL (\~14 nmol/L), while UK and Australian practice deliberately targets troughs of 10-15 nmol/L. Neither camp has trial evidence that its target produces better outcomes.
 
 ### When the blood is drawn matters as much as the number
 
@@ -34,9 +34,9 @@ Labs report in different units depending on country and assay. Keep these:[^6]
 
 | Hormone           | Conversion                     | Handy cheat sheet                                |
 | ----------------- | ------------------------------ | ------------------------------------------------ |
-| Testosterone      | nmol/L = ng/dL ÷ 28.84         | 400 ng/dL ~= 14 nmol/L \| 700 ng/dL ~= 24 nmol/L |
-| Estradiol (E2)    | pmol/L = pg/mL x 1000 / 272.38 | 27 pg/mL ~= 100 pmol/L \| 40 pg/mL ~= 147 pmol/L |
-| Progesterone (P4) | nmol/L = ng/mL x 3.18          | 0.1 ng/mL ~= 0.3 nmol/L                          |
+| Testosterone      | nmol/L = ng/dL ÷ 28.84         | 400 ng/dL \~= 14 nmol/L \| 700 ng/dL \~= 24 nmol/L |
+| Estradiol (E2)    | pmol/L = pg/mL x 1000 / 272.38 | 27 pg/mL \~= 100 pmol/L \| 40 pg/mL \~= 147 pmol/L |
+| Progesterone (P4) | nmol/L = ng/mL x 3.18          | 0.1 ng/mL \~= 0.3 nmol/L                          |
 
 ## Further reading
 

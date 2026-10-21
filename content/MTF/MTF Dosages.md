@@ -35,6 +35,6 @@ The big issue with the recommended low end of the dosages is when prescribed wit
 When both hormones are low you can be risking accelerated bone loss, fatigue, low mood, hot flushes, low libido, joint aches, brain fog, and poor sleep.
 Not even mentioning the lower than desired feminizing effects. 
 
-PATHA is exceptionally egregious here with the 1mg recommendation which is lower than WPATH, AusPATH and the Endocrine Society's recommendations for a minimal dose. 1mg single oral dose provides a peak at only ~35 pg/mL of serum estradiol[^1] which compared to [[MTF Target Ranges]] is far bellow a desired level.
+PATHA is exceptionally egregious here with the 1mg recommendation which is lower than WPATH, AusPATH and the Endocrine Society's recommendations for a minimal dose. 1mg single oral dose provides a peak at only \~35 pg/mL of serum estradiol[^1] which compared to [[MTF Target Ranges]] is far bellow a desired level.
 
 [^1]: According to "Pharmacokinetics of Sublingual Versus Oral Estradiol in Transgender Women" - https://doi.org/10.1016/j.eprac.2021.11.081

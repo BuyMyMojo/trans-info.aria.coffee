@@ -11,7 +11,7 @@ Most transmasc testosterone care rests on decades of clinical experience plus co
 > [!note] A note from Aria
 > You could help this! When getting your pathology requests ask for both E and prog to be added and keep a log!  it could be helpful for future community research <3
 
-**Progesterone data is almost nonexistent.** Serum (blood) P4 has been reported in only ~4 small studies (largest n=41). P4's physiological role in transmasc people and bone, mood and/or breast tissue has never been studied at all.[^5]
+**Progesterone data is almost nonexistent.** Serum (blood) P4 has been reported in only \~4 small studies (largest n=41). P4's physiological role in transmasc people and bone, mood and/or breast tissue has never been studied at all.[^5]
 
 **Topical vaginal estrogen has never been studied in transmasc people.** It's the standard offered treatment for atrophy (tissue becoming thinner and drier), and guidelines assert very little is absorbed into the bloodstream but every word of that is extrapolated from postmenopausal cis-women data. No transmasc study of efficacy, absorption, or effect on masculinization exists.[^6] See [[FTM Periods and Fertility]].
 
@@ -26,7 +26,7 @@ Most transmasc testosterone care rests on decades of clinical experience plus co
 
 **Cardiovascular hard outcomes:** Getahun 2018 (Kaiser) found MI/stroke rates similar across groups, and Dutch mortality data show no excess CV death. Nota 2019 and Alzahrani 2019 found higher MI rates vs cisgender women (not cis men). All observational (watching people rather than testing treatments), few events, poorly adjusted for smoking. Probably no large excess risk vs cis men but "probably" is the operative word.[^11][^12][^13]
 
-**Underdosing prevalence** Deutsch 2015 (n=31) found ~1/3 of trans men sub-therapeutic (below the level needed for full effects) at 6 months on typical starts, the best direct evidence, and it's a decade old with 31 people. No large modern quantification by formulation exists, despite it being one of the community's most consistent grievances.[^9][^14]
+**Underdosing prevalence** Deutsch 2015 (n=31) found \~1/3 of trans men sub-therapeutic (below the level needed for full effects) at 6 months on typical starts, the best direct evidence, and it's a decade old with 31 people. No large modern quantification by formulation exists, despite it being one of the community's most consistent grievances.[^9][^14]
 
 > [!note] A note from Aria
 > Scream and shout about under dosing! share information about doctors that don't provide adequate care or are very slow with dose changes online!!

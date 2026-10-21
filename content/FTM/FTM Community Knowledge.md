@@ -27,13 +27,13 @@ Community forums are full of stories of very low starts, slow titration (gradual
 - In a prospective (following people forward in time) study of 31 trans men on *guideline-typical* starting regimens, **only 68% had male-range testosterone at 6 months** so roughly a third were sub-therapeutic (and only 29% had male-range estradiol, the main estrogen).[^5]
 - UCSF itself warns that skipping level checks "runs the risk of a suboptimal degree of virilization."[^2]
 - Symptomatic underdosing: breakthrough bleeding and pelvic pain are associated with *lower* T levels.[^6]
-- **Monitoring tempo:** New Zealand's PATHA protocol deliberately doesn't check the first T level until 9-12 months ("it takes time for levels to stabilise") while UCSF checks at 3-6 months and community practice is a trough draw (blood taken just before shot day) at ~3 months. Under the slow model, a non-responder can spend a year sub-therapeutic.[^7]
+- **Monitoring tempo:** New Zealand's PATHA protocol deliberately doesn't check the first T level until 9-12 months ("it takes time for levels to stabilise") while UCSF checks at 3-6 months and community practice is a trough draw (blood taken just before shot day) at \~3 months. Under the slow model, a non-responder can spend a year sub-therapeutic.[^7]
 
 If your levels are low and you're not seeing changes, you're allowed to ask for a level check and a dose review that's not being a "difficult patient", it's vital for your health. More at [[FTM Dosages#Underdosing]] and [[FTM Blood Testing]].
 
 ## Info with less professional data
 
-**Genital T/DHT cream ("bottom growth cream").** 10% DHT (dihydrotestosterone, which is a stronger hormone made from testosterone) cream applied for ~3 months *before metoidioplasty* (a type of bottom surgery) is an established surgical protocol (Belgrade school; pediatric DHT data exist too).[^8] for non-surgical cosmetic growth: no trial shows compounded cream adds growth beyond what systemic T does, genital skin absorbs systemically.[^8]
+**Genital T/DHT cream ("bottom growth cream").** 10% DHT (dihydrotestosterone, which is a stronger hormone made from testosterone) cream applied for \~3 months *before metoidioplasty* (a type of bottom surgery) is an established surgical protocol (Belgrade school; pediatric DHT data exist too).[^8] for non-surgical cosmetic growth: no trial shows compounded cream adds growth beyond what systemic T does, genital skin absorbs systemically.[^8]
 
 **Minoxidil for beard growth.** Exactly one trans-specific case report (a 17-year-old who grew pigmented facial hair in 3 months on 5% minoxidil with body-hair growth beyond the application site, suggesting systemic absorption), one 16-person cohort showing significant gains, and one small cis-male RCT (randomized controlled trial).[^9][^10] The case report's authors explicitly credit online forums with using it first. Whether gains persist after stopping is unknown (cis data suggest regression within 3-4 months). keep minoxidil away from cats (it's lethal to felines) and expect a shedding phase.
 
@@ -45,7 +45,7 @@ If your levels are low and you're not seeing changes, you're allowed to ask for 
 
 ## The harm-reduction testing gap
 
-Black-market steroid analysis finds ~36% of products counterfeit and ~37% substandard.[^12] Community harm-reduction orgs lab-test grey-market hormones to catch this such as [Trans Harm Reduction publishes its results](https://transharmreduction.org/hrt-testing) but their published testing has been **almost entirely estradiol**. Testosterone's public testing footprint is essentially one vial ever (a 2023 testosterone cypionate sample measuring 233 mg/mL vs 250 advertised, with impurities).[^13] Transmasculine people who self-source rely on steroid UGLs (underground labs) that trans harm-reduction barely tests. If you self-source, blood monitoring through a GP matters even more; see [[FTM Access]] for harm-reduction pointers, and the [diyhrt.wiki transmasc guide](https://diyhrt.wiki/transmasc) for the community's practical safety rundown.
+Black-market steroid analysis finds \~36% of products counterfeit and \~37% substandard.[^12] Community harm-reduction orgs lab-test grey-market hormones to catch this such as [Trans Harm Reduction publishes its results](https://transharmreduction.org/hrt-testing) but their published testing has been **almost entirely estradiol**. Testosterone's public testing footprint is essentially one vial ever (a 2023 testosterone cypionate sample measuring 233 mg/mL vs 250 advertised, with impurities).[^13] Transmasculine people who self-source rely on steroid UGLs (underground labs) that trans harm-reduction barely tests. If you self-source, blood monitoring through a GP matters even more; see [[FTM Access]] for harm-reduction pointers, and the [diyhrt.wiki transmasc guide](https://diyhrt.wiki/transmasc) for the community's practical safety rundown.
 
 ## What community knowledge can't do
 

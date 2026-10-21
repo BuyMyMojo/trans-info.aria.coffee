@@ -20,7 +20,7 @@ Sustanon 250 is a blend of four testosterone esters (short + long acting) given 
 
 ### Testosterone undecanoate (Nebido / Reandron; Aveed in the US)
 
-The long-acting injection: 1000 mg every 12 weeks (as Nebido, marketed as **Reandron 1000** in Australia) or 750 mg every 10 weeks (Aveed, US), after an early loading dose. It gives the most stable, near-physiological levels of any injectable, with only ~4-5 clinic visits a year.[^1][^5]
+The long-acting injection: 1000 mg every 12 weeks (as Nebido, marketed as **Reandron 1000** in Australia) or 750 mg every 10 weeks (Aveed, US), after an early loading dose. It gives the most stable, near-physiological levels of any injectable, with only \~4-5 clinic visits a year.[^1][^5]
 
 > [!warning] Undecanoate is not self-administered.
 > The large 3-4 mL injection volume carries a rare risk of pulmonary oil microembolism (tiny oil droplets reaching the lungs) and anaphylaxis (a severe allergic reaction), so it's given by a clinician, not at home. In the US it's restricted to a registered-provider program (Aveed REMS) with a 30-minute post-injection observation.[^1][^7]
@@ -37,7 +37,7 @@ Transdermal just means "through the skin." Gel is applied once daily (usually mo
 
 ## Patches
 
-Testosterone patches (2.5-7.5 mg/day) are easy and give predictable levels, but a **high rate of application-site skin irritation** and poor adhesion with sweating limit their use, only ~1-3% of patients use them in cohorts, and they're unavailable in some countries.[^1][^5]
+Testosterone patches (2.5-7.5 mg/day) are easy and give predictable levels, but a **high rate of application-site skin irritation** and poor adhesion with sweating limit their use, only \~1-3% of patients use them in cohorts, and they're unavailable in some countries.[^1][^5]
 
 ## Pellets (implants)
 
@@ -45,7 +45,7 @@ Testopel pellets (75 mg each) are implanted under the skin of the hip/buttock in
 
 ## Oral testosterone undecanoate
 
-Modern oral undecanoate (Jatenzo, Tlando, Kyzatrex in the US; the older Andriol elsewhere) is absorbed via the intestinal lymphatic system (part of the body's fluid-filtering network), bypassing first-pass liver metabolism, so it does **not** carry the liver toxicity of the old 17-alpha-alkylated orals (methyltestosterone), which are now discouraged. Taken twice daily with food; ~80-88% of users reach male-range levels in the (cis-male) trials. Main cautions: blood-pressure elevation (boxed warnings on two brands), polycythemia (too many red blood cells), and lipid (blood fat) changes.[^10] Important caveat: these products were studied almost entirely in cisgender men with hypogonadism (bodies that don't make enough testosterone). **use for transmasculine HRT is off-label and not specifically studied**.
+Modern oral undecanoate (Jatenzo, Tlando, Kyzatrex in the US; the older Andriol elsewhere) is absorbed via the intestinal lymphatic system (part of the body's fluid-filtering network), bypassing first-pass liver metabolism, so it does **not** carry the liver toxicity of the old 17-alpha-alkylated orals (methyltestosterone), which are now discouraged. Taken twice daily with food; \~80-88% of users reach male-range levels in the (cis-male) trials. Main cautions: blood-pressure elevation (boxed warnings on two brands), polycythemia (too many red blood cells), and lipid (blood fat) changes.[^10] Important caveat: these products were studied almost entirely in cisgender men with hypogonadism (bodies that don't make enough testosterone). **use for transmasculine HRT is off-label and not specifically studied**.
 
 ## Comparison table
 
@@ -54,13 +54,13 @@ Modern oral undecanoate (Jatenzo, Tlando, Kyzatrex in the US; the older Andriol 
 | **Cypionate / enanthate**                   | Self-injection, IM or SubQ              | Weekly (or every 2 weeks) | Moderate - peaks & troughs, worse at 2-week intervals | Cheapest; long track record; flexible dosing            | Needles; cyclic mood/energy at longer intervals; raises hematocrit more than gel |
 | **SubQ route** *(cypionate/enanthate)*      | Small needle (25G) into belly/thigh fat | Weekly                    | More stable than IM                                   | Less pain, easier self-injection, preferred by patients | Off-label (technically); erythrocytosis question unresolved                      |
 | **Sustanon 250**                            | Deep IM, self or clinician              | Every 2-6 weeks (often 4) | Moderate; mixed-ester peaks                           | Standard in UK; licensed for FTM; cheap                 | Peaks/troughs; peanut-oil vehicle                                                |
-| **Undecanoate (Nebido/Reandron/Aveed)**     | Deep IM **by a clinician**              | Every 10-12 weeks         | Very stable                                           | ~4 injections/yr; no weekly needles; steady levels      | Clinic visits; rare oil-microembolism risk; costly                               |
+| **Undecanoate (Nebido/Reandron/Aveed)**     | Deep IM **by a clinician**              | Every 10-12 weeks         | Very stable                                           | \~4 injections/yr; no weekly needles; steady levels      | Clinic visits; rare oil-microembolism risk; costly                               |
 | **Gel** (Testogel, AndroGel, Tostran, etc.) | Applied to shoulders/arms daily         | Daily                     | Stable, physiological                                 | No needles; easy to adjust/stop; less polycythemia      | **Transfer risk to partners/children**; daily burden; cost; variable absorption  |
 | **Patch**                                   | Adhesive patch, changed daily           | Daily                     | Stable, predictable                                   | No needles                                              | High skin-irritation rate; peels with sweat; scarce in some countries            |
 | **Pellets (Testopel)**                      | Implanted in-clinic (minor procedure)   | Every 3-6 months          | Stable long plateau                                   | Nothing to remember between procedures                  | Can't adjust dose once placed; procedure each time; extrusion/infection risk     |
 | **Oral undecanoate**                        | Capsule, twice daily with food          | Twice daily               | Moderate (2 daily peaks)                              | No needles, no transfer risk; no liver toxicity         | Blood-pressure warning; costly; off-label/unstudied for trans use                |
 
-*Stability ranking, most -> least stable: pellets ~ undecanoate ~ daily gel/patch > weekly injection (SubQ > IM) > every-2-week injection > twice-daily oral.*[^5]
+*Stability ranking, most -> least stable: pellets \~ undecanoate \~ daily gel/patch > weekly injection (SubQ > IM) > every-2-week injection > twice-daily oral.*[^5]
 
 > [!tip] Formulation and red blood cells
 > Polycythemia, too many red blood cells, measured as a high hematocrit (the share of your blood made up of red blood cells), differs by form: in a Melbourne study of 180 transmasc indaviduals, it occurred in 23% on IM enanthate, 15% on IM undecanoate, and **0% on transdermal** testosterone at comparable blood levels.[^11] If your hematocrit runs high, route is one of the levers your clinician can pull. see [[FTM Blood Testing]] and [[FTM Risks and Side Effects]].
@@ -68,7 +68,7 @@ Modern oral undecanoate (Jatenzo, Tlando, Kyzatrex in the US; the older Andriol 
 
 ## Australia notes
 
-Australian practice (reflected in Melbourne/Sydney studies) leans on **testosterone enanthate** (Primoteston) and **testosterone undecanoate** (Reandron 1000), with gels (e.g., Testogel) also common, especially for low-dose regimens. Most testosterone products are PBS-subsidised, so roughly A\$7 with a concession card to ~A\$40/month, after a one-time specialist involvement; note Primoteston itself is **not** PBS-listed and is prescribed privately.[^12][^13] See [[FTM Access]] for the full pathway.
+Australian practice (reflected in Melbourne/Sydney studies) leans on **testosterone enanthate** (Primoteston) and **testosterone undecanoate** (Reandron 1000), with gels (e.g., Testogel) also common, especially for low-dose regimens. Most testosterone products are PBS-subsidised, so roughly A\$7 with a concession card to \~A\$40/month, after a one-time specialist involvement; note Primoteston itself is **not** PBS-listed and is prescribed privately.[^12][^13] See [[FTM Access]] for the full pathway.
 
 ## Deciding on route
 

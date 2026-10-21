@@ -14,18 +14,18 @@ Australia uses an **informed consent model**, your doctor explains the effects a
 
 ## United States
 
-- **Informed consent clinics** are the backbone: Planned Parenthood (one of the largest gender-affirming hormone therapy providers nationally) requires no therapist letter, criteria are capacity to consent, 18+, persistent dysphoria, and reasonably controlled co-occurring conditions. Many people get a prescription at the first visit or right after baseline labs.[^4] Example self-pay pricing: ~\$120-150 per visit plus labs and medication.[^4]
-- **Telehealth:** services like Plume (~\$99/month membership, labs included, medication extra) and FOLX (~\$40/month + per-visit fees) prescribe in most states though testosterone's controlled status blocks it in some.[^5]
-- **Legal status:** testosterone is a **Schedule III controlled substance** (a legally restricted drug) so a prescriber registered with the DEA (the US drug enforcement agency) is required, prescriptions are tracked in state monitoring programs, max 5 refills in 6 months, ~30-day fills in most states.[^6]
-- **Medication costs:** with insurance, median out-of-pocket for testosterone cypionate was ~\$10.71/month (2019 data); cash prices via discount cards start under \$10/vial for injections, while gels run far higher retail (\$220-460/month, ~\$50 with discounts).[^9]
+- **Informed consent clinics** are the backbone: Planned Parenthood (one of the largest gender-affirming hormone therapy providers nationally) requires no therapist letter, criteria are capacity to consent, 18+, persistent dysphoria, and reasonably controlled co-occurring conditions. Many people get a prescription at the first visit or right after baseline labs.[^4] Example self-pay pricing: \~\$120-150 per visit plus labs and medication.[^4]
+- **Telehealth:** services like Plume (\~\$99/month membership, labs included, medication extra) and FOLX (\~\$40/month + per-visit fees) prescribe in most states though testosterone's controlled status blocks it in some.[^5]
+- **Legal status:** testosterone is a **Schedule III controlled substance** (a legally restricted drug) so a prescriber registered with the DEA (the US drug enforcement agency) is required, prescriptions are tracked in state monitoring programs, max 5 refills in 6 months, \~30-day fills in most states.[^6]
+- **Medication costs:** with insurance, median out-of-pocket for testosterone cypionate was \~\$10.71/month (2019 data); cash prices via discount cards start under \$10/vial for injections, while gels run far higher retail (\$220-460/month, \~\$50 with discounts).[^9]
 - The 2025-26 federal policy environment is volatile (funding pressure on clinics, state-level restrictions). Availability can shift quickly, make sure to check current state law and report back to me on any federal level changes if you can!
 
 ## United Kingdom
 
 - **NHS pathway:** GP referral to a Gender Dysphoria Clinic then multidisciplinary assessment (by a team of clinicians) over at least two appointments into hormone recommendation and then your GP prescribes under a **shared-care** protocol (the clinic directs the plan, your GP writes the prescriptions) with the clinic.[^10]
-- **The waits are extreme.** The NHS England [Levy Review](https://www.england.nhs.uk/long-read/operational-and-delivery-review-of-nhs-adult-gender-dysphoria-clinics-in-england/) (Dec 2025) found people reaching a first appointment in Oct 2024 had waited an **average of 296 weeks (~5 years 7 months)**, with >40,000 people on the list; most clinics projected 15+ year waits for new referrals if nothing changed.[^11] Reforms announced a single national waiting list (April 2026), referral threshold raised to 18, and an end to self-referrals.[^12] Scotland's picture is similar (716 people waiting >5 years as of March 2025).[^13] Newer primary-care-led pilot clinics (e.g., TransPlus, Indigo) have markedly shorter waits.
+- **The waits are extreme.** The NHS England [Levy Review](https://www.england.nhs.uk/long-read/operational-and-delivery-review-of-nhs-adult-gender-dysphoria-clinics-in-england/) (Dec 2025) found people reaching a first appointment in Oct 2024 had waited an **average of 296 weeks (\~5 years 7 months)**, with >40,000 people on the list; most clinics projected 15+ year waits for new referrals if nothing changed.[^11] Reforms announced a single national waiting list (April 2026), referral threshold raised to 18, and an end to self-referrals.[^12] Scotland's picture is similar (716 people waiting >5 years as of March 2025).[^13] Newer primary-care-led pilot clinics (e.g., TransPlus, Indigo) have markedly shorter waits.
 - **Bridging prescriptions:** GMC (the UK doctors' regulator) rules let a GP prescribe a *bridging* dose only when all criteria are met, you're already self-sourcing (or highly likely to), a gender specialist has been consulted, and it's the lowest acceptable dose. Many GP practices decline bridging and private shared-care outright. It's a postcode lottery (whether you get it depends on where you live).[^14]
-- **Cost:** NHS care is free; England prescriptions are **£9.90/item** (frozen through 2026/27); free in Scotland, Wales, and NI.[^15] Private routes (GenderCare ~£600 initial; GenderGP subscription models) commonly total >£1,000/year.[^16]
+- **Cost:** NHS care is free; England prescriptions are **£9.90/item** (frozen through 2026/27); free in Scotland, Wales, and NI.[^15] Private routes (GenderCare \~£600 initial; GenderGP subscription models) commonly total >£1,000/year.[^16]
 
 ## Canada, New Zealand, Europe (brief)
 
@@ -42,7 +42,7 @@ Testosterone's legal status differs by country: **Schedule III** (US), **Class C
 - Keep T in **original pharmacy-labeled packaging**, in hand luggage
 - Carry a **copy of the prescription** and a **doctor's letter** (drug, dose, prescriber registration)
 - Unused syringes/needles are permitted when accompanying the medication; essential medicines are exempt from liquid limits with documentation
-- UK travelers taking >3 months' supply need a **Home Office personal export/import licence** (apply ~8 weeks ahead)
+- UK travelers taking >3 months' supply need a **Home Office personal export/import licence** (apply \~8 weeks ahead)
 - Some countries restrict or ban import so check the destination embassy's rules before flying, and declare controlled meds where required
 
 ## Self-sourcing/DIY
@@ -52,7 +52,7 @@ In [TransActual's 2022 UK survey](https://transactual.org.uk/healthcare-professi
 **Risks**:
 
 - **Unmonitored erythrocytosis** (too many red blood cells), the main dose-limiting risk of T is invisible without blood tests (see [[FTM Risks and Side Effects]]). High red blood cells have no symptoms until they're a problem.
-- **Unknown product quality.** A meta-analysis (a study pooling many earlier studies) of black-market anabolic steroids found **~36% counterfeit and ~37% substandard**, underdosed, overdosed, or contaminated, and you can't tell by looking.[^23] Community lab-testing of testosterone specifically is nearly nonexistent (one published community test ever that I could find, vs dozens for estradiol).[^24]
+- **Unknown product quality.** A meta-analysis (a study pooling many earlier studies) of black-market anabolic steroids found **\~36% counterfeit and \~37% substandard**, underdosed, overdosed, or contaminated, and you can't tell by looking.[^23] Community lab-testing of testosterone specifically is nearly nonexistent (one published community test ever that I could find, vs dozens for estradiol).[^24]
 - No baseline screening for contraindications (medical reasons testosterone might be unsafe for you), and no one to adjust the dose.
 
 **Making it safer:**

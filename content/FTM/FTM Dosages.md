@@ -16,8 +16,8 @@ SOC8's footnotes: doses are "titrated up or down until sex steroid hormone level
 Other major protocols fill in the starting picture:
 
 - **[UCSF](https://transcare.ucsf.edu/guidelines/masculinizing-therapy)** publishes three tiers per formulation: low (explicitly flagged for genderqueer/nonbinary goals), typical, and maximum: e.g., cypionate/enanthate **20 -> 50 -> 100 mg/week**; gel 1% **12.5-25 -> 50 -> 100 mg/day**. UCSF also notes that label dosing assumes cis men with *low but not no* testosterone, so trans men may need higher doses than on the label.[^3]
-- **NHS (UK)** typically starts gels at ~40 mg/day (e.g., Testogel 16.2 mg/g, 2 pumps), Sustanon 250 mg every 4 weeks, or Nebido 1000 mg every 12 weeks after a loading phase.[^4]
-- **Fenway** (US community health): 50 mg/week start, increase after ~1 month; standard 50-100 mg/week.[^6]
+- **NHS (UK)** typically starts gels at \~40 mg/day (e.g., Testogel 16.2 mg/g, 2 pumps), Sustanon 250 mg every 4 weeks, or Nebido 1000 mg every 12 weeks after a loading phase.[^4]
+- **Fenway** (US community health): 50 mg/week start, increase after \~1 month; standard 50-100 mg/week.[^6]
 - **[Rainbow Health Ontario](https://www.rainbowhealthontario.ca/TransHealthGuide/gp-mascht.html)**: start 20-50 mg weekly (or 40-100 mg every 2 weeks), titrating by 10-20 mg steps every 4-6 weeks.[^7]
 
 So "start low and titrate up" and "start near full replacement" both appear in reputable guidance. For intentionally low regimens, see [[FTM Low-Dose and Nonbinary]].
@@ -42,7 +42,7 @@ Check out [[FTM Target Ranges]] for more indepth info on this!
 Titration means adjusting the dose in steps based on blood results **and** how you feel. UCSF's framing is the clearest: dose changes should be driven by *patient goals, in the context of clinical response, hormone level monitoring, and safety monitoring (hemoglobin and hematocrit)*. with **periods stopping by 6 months** as the objective clinical-response benchmark.[^3] Typical triggers clinicians act on:
 
 - **Levels below target + slow progress or symptoms** (low energy, libido, mood; ongoing bleeding) -> reasonable to increase slowly.[^3]
-- **Persistent menstruation past ~6 months** -> progestins (progesterone-like hormones) or GnRH analogues (drugs that switch off the ovaries' hormone production) can be added if testosterone alone doesn't suppress it (see [[FTM Periods and Fertility]]).[^3][^4]
+- **Persistent menstruation past \~6 months** -> progestins (progesterone-like hormones) or GnRH analogues (drugs that switch off the ovaries' hormone production) can be added if testosterone alone doesn't suppress it (see [[FTM Periods and Fertility]]).[^3][^4]
 - **Above male-range levels** -> reduce the dose; your body converts some of the excess testosterone into estradiol, which adds risk, not extra masculinization.[^7]
 - **High hematocrit** (the share of your blood made up of red blood cells) -> check levels including a peak, adjust dose, change frequency or route; see [[FTM Blood Testing]].[^3]
 
@@ -78,7 +78,7 @@ The transfem side of HRT has long had issues with underdosing with estradiol pre
 - Community reports: very low starts with increases only every 3-6 months; legacy "100 mg every 3-4 weeks" scripts with week-3 crashes and returning periods; gel regimens never titrated past 1-2 pumps despite female-range levels; providers refusing increases because "clinical response" matters more than numbers. 
 
 > [!warning] What you can do
-> - **Get your levels checked** at ~3 months after starting or any dose change(If possible get them once a month while titrating! having this information can be useful for your care provider or even yourself!!), not just twice a year. The Endocrine Society/SOC8 schedule (every ~3 months in year 1) exists precisely because titration without levels is guesswork.[^1][^2]
+> - **Get your levels checked** at \~3 months after starting or any dose change(If possible get them once a month while titrating! having this information can be useful for your care provider or even yourself!!), not just twice a year. The Endocrine Society/SOC8 schedule (every \~3 months in year 1) exists precisely because titration without levels is guesswork.[^1][^2]
 > - **Know your numbers and your lab's male reference range.** Ask for a copy of results, or look them up in your patient portal. See [[FTM Target Ranges]] and [[FTM Blood Testing#How to read your own results]].
 > - **Ask for trough testing if you're on injections** and suspect end-of-cycle symptoms, a mid-interval or peak reading can hide a trough crash.
 > - **Bring data to the appointment:** symptoms with dates, when in the shot cycle they occur, and your level history. "My trough is 9 nmol/L and my period returned in week 2" moves a conversation further than "I don't feel right."
