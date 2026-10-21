@@ -60,7 +60,8 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        // priority: ["frontmatter", "git", "filesystem"],
+        priority: ["git", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -86,6 +87,7 @@ const config: QuartzConfig = {
       Plugin.ContentIndex({
         enableSiteMap: true,
         enableRSS: true,
+        rssLimit: 100,
       }),
       Plugin.Assets(),
       Plugin.Static(),
