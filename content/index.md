@@ -82,7 +82,7 @@ Otherwise you can contact me anywhere I mention on my [personal website](https:/
 
 Alternatively if you want to share information or discuss specifically FTM related stuff then Aphantic is the one to see!
 
-BlueSky: [@aphantic.pds.witchcraft.systems](https://bsky.app/profile/did:plc:vy22kzdjlkx3obiu6jgfw5jo)
+Bluesky: [@aphantic.pds.witchcraft.systems](https://bsky.app/profile/did:plc:vy22kzdjlkx3obiu6jgfw5jo)
 Discord: @aphantic
 
 <sub>
