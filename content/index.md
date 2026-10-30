@@ -3,11 +3,13 @@ title: Welcome to The Trans Directory
 ---
 > [!danger]
 > This website is under heavy development!
-> all the info on these pages are checked before uploading and will be accurate still, the website itself will change a lot however.
 > 
-> Some pages may be unfinished, check the resource pages for other sources in the mean time!
+> Some pages may be unfinished, check the resource pages for other sources in the mean time and always read the provided sources for any information if you can!
 > 
 > Please seek out the contact information at the bottom if you have any requests or useful resources!
+
+> [!warning]
+> PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
 
 Welcome! This is a project by [Aria](https://aria.coffee) to get as much information about transitioning as she can into one place!
 
@@ -25,10 +27,12 @@ After learning about and  talking to a few other trans individuals I learnt many
 
 I want to get this out to as many individuals that need it as possible and make all this info accessible easily.
 
-# All gender diverse people:
+# Medical professionals
 
-> [!warning]
-> PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
+> [!info] a note from Aria
+> This will be what gets added next <3
+
+# All gender diverse people:
 
 - [[Standards of Care]] - this page holds a bunch of the current medical guidelines for transgender healthcare 
 - [[Genderal Resources]] - Get links that apply to everyone or specific regions![^1]
@@ -43,16 +47,10 @@ I want to get this out to as many individuals that need it as possible and make 
 
 # Male To Female
 
-> [!warning]
-> PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
-
 - [[MTF Resources]] - Just give me the damn links
 - [[MTF HRT]] - Info on medical transitioning with female hormones
 
 # Female To Male
-
-> [!warning]
-> PLEASE REFER TO THE RESOURCES LINKS LISTED HERE FIRST WHILE I WORK ON THIS WEBSITE
 
 - [[FTM Resources]] - Just give me the damn links
 - [[FTM HRT]] - Info on medical transitioning with male hormones
