@@ -36,9 +36,10 @@ I want to get this out to as many individuals that need it as possible and make 
 - [[Surgeries]] - Overview of common gender-affirming surgical procedures
 - [[Voice Training]] - Resources for voice feminization and masculinization
 
-## Universal legal info for all gender diverse people
+## Legal info for all gender diverse people
 
 - [[Australian Legal]] - Specific guide for Australian name/gender marker changes
+
 
 # Male To Female
 
