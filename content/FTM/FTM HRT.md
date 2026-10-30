@@ -10,7 +10,7 @@ Testosterone shifts your hormone profile into the typical cis male range, drivin
 
 Two things worth knowing on day one:
 
-- **You can't pick and choose effects.** There is no regimen that reliably delivers only the changes you want; genetics, age, and your body's sensitivity decide a lot (see [[FTM Effects]]).[^1]
+- **You can't pick and choose effects.** There is no regimen that reliably delivers only the changes you want; genetics, age, and your body's sensitivity to hormones decide a lot (see [[FTM Effects]]).[^1]
 - **More is not faster.** Once your level is in the normal male range, higher doses add side effects such as acne, high red blood cell counts(polycythaemia/high RBC), hair loss but not extra masculinization.[^1]
 
 ## How people start
@@ -20,10 +20,10 @@ Most people start testosterone through one of these routes:
 - **GP / primary care clinician** -- in many countries (Australia, Canada, much of the US) a supportive GP can prescribe and manage HRT directly.
 - **Endocrinologist (a hormone specialist) or gender clinic** -- the traditional specialist pathway; standard in the UK and much of Europe, often with long waits.
 - **Informed-consent providers** -- the clinician explains effects, risks, and alternatives; if you understand and consent, you can be prescribed hormones without a therapist letter or mandatory counseling. This model is recognized by WPATH SOC8 for adults and is standard at many community health centers, Planned Parenthood clinics, and telehealth services.[^3][^4]
-- **Telehealth** -- increasingly common; prescribing rules for testosterone (a controlled substance -- a legally restricted drug in some countries) vary and change fast. See [[FTM Access]] for country-by-country detail.
+- **Telehealth** -- method of consulting doctors remotely over the phone or video call; prescribing rules for testosterone (a controlled substance -- a legally restricted drug in some countries) vary and change fast. See [[FTM Access]] for country-by-country detail.
 - **DIY** -- Accessing HRT through DIY methods for some can be their only viable or affordable way of accessing HRT depending on their location. ranging from 11% to 93%, depending on the region, relies on DIY HRT as a necessary harm-reduction strategy.
 
-**In Australia specifically**(as of 2026): GPs can prescribe testosterone under an informed-consent model, but getting it subsidised through the PBS (Australia's medicine-subsidy scheme) requires a one-time involvement of a specialist (an endocrinologist, sexual health physician, or urologist, even a phone/email consult counts). Subsidised testosterone then costs roughly A\$7 with a concession card, up to about A\$40 per month, and you don't need to be registered with Medicare as male to access it.[^5] [AusPATH](https://auspath.org.au/), the Australian professional association for trans health, publishes a national position statement on hormonal care.[^6]
+**In Australia specifically** (as of 2026): GPs can prescribe testosterone under an informed-consent model, but getting it subsidised through the PBS (Australia's medicine-subsidy scheme) requires a one-time involvement of a specialist (an endocrinologist, sexual health physician, or urologist, even a phone/email consult counts). Subsidised testosterone then costs roughly A\$7 with a concession card, up to about A\$40 per month, and you don't need to be registered with Medicare as male to access it.[^5] [AusPATH](https://auspath.org.au/), the Australian professional association for trans health, publishes a national position statement on hormonal care.[^6]
 
 Wherever you start, the usual shape of care is: a goals conversation -> baseline blood tests -> a starting dose -> titration (gradually adjusting your dose) over months, guided by blood levels and how you feel (see [[FTM Dosages]] and [[FTM Blood Testing]]).
 
