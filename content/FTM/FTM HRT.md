@@ -6,12 +6,12 @@ Testosterone hormone replacement therapy (HRT), also called **masculinizing horm
 
 ## What testosterone does
 
-Testosterone shifts your hormone profile into the typical male range, driving changes such as a deeper voice, facial and body hair, increased muscle, redistributed body fat, stopped periods, and genital (bottom) growth. Some changes are permanent and some reverse if you stop, knowing which is which is one of the most important things to understand before starting. See [[FTM Effects]] for the full timeline and [[FTM Target Ranges]] for what "male range" actually means in numbers.
+Testosterone shifts your hormone profile into the typical cis male range, driving changes such as a deeper voice, facial and body hair, increased muscle mass, redistributed body fat, stopping periods/amenorrhea (ceasing menses), and genital (bottom) growth. Some changes are permanent and some are reversible if you stop, knowing which is which is one of the most important things to understand before starting. See [[FTM Effects]] for the full timeline and [[FTM Target Ranges]] for what "male range" actually means in numbers.
 
 Two things worth knowing on day one:
 
 - **You can't pick and choose effects.** There is no regimen that reliably delivers only the changes you want; genetics, age, and your body's sensitivity decide a lot (see [[FTM Effects]]).[^1]
-- **More is not faster.** Once your level is in the normal male range, higher doses add side effects (acne, high red blood cell counts, hair loss), not extra masculinization.[^1]
+- **More is not faster.** Once your level is in the normal male range, higher doses add side effects such as acne, high red blood cell counts(polycythaemia/high RBC), hair loss but not extra masculinization.[^1]
 
 ## How people start
 
